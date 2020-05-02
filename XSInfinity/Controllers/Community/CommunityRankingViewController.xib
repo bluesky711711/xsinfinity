@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CommunityRankingViewController">
+            <connections>
+                <outlet property="tableView" destination="zvU-SG-nSV" id="14P-M4-cat"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bg" translatesAutoresizingMaskIntoConstraints="NO" id="XPM-cH-jaJ">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                </imageView>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="zvU-SG-nSV">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="inM-bU-WT4"/>
+                        <outlet property="delegate" destination="-1" id="eIs-DC-RGz"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="zvU-SG-nSV" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="2S4-Dr-ews"/>
+                <constraint firstItem="XPM-cH-jaJ" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="5vT-5w-itZ"/>
+                <constraint firstItem="XPM-cH-jaJ" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="FJu-NL-kO9"/>
+                <constraint firstAttribute="bottom" secondItem="zvU-SG-nSV" secondAttribute="bottom" id="Kk6-nJ-A2F"/>
+                <constraint firstAttribute="trailing" secondItem="XPM-cH-jaJ" secondAttribute="trailing" id="ZTb-pl-mRh"/>
+                <constraint firstAttribute="bottom" secondItem="XPM-cH-jaJ" secondAttribute="bottom" id="gyb-pJ-SID"/>
+                <constraint firstItem="zvU-SG-nSV" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="v3y-Zm-gv2"/>
+                <constraint firstAttribute="trailing" secondItem="zvU-SG-nSV" secondAttribute="trailing" id="xjJ-aB-3g0"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="Q5M-cg-NOt"/>
+            <point key="canvasLocation" x="24.5" y="51.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="bg" width="414" height="736"/>
+    </resources>
+</document>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TextViewOverlayViewController">
+            <connections>
+                <outlet property="contentView" destination="bZO-St-YFf" id="4lw-yg-5OO"/>
+                <outlet property="contentViewTopConstraint" destination="GzA-mg-J6E" id="Tr6-wL-K76"/>
+                <outlet property="mainView" destination="BiW-gU-og9" id="zuP-Wc-UJd"/>
+                <outlet property="titleLbl" destination="bZr-fM-hMp" id="4rh-tv-rNT"/>
+                <outlet property="txtView" destination="wNn-AE-ogh" id="Ypv-BX-FbS"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BiW-gU-og9">
+                    <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                    <subviews>
+                        <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bZO-St-YFf">
+                            <rect key="frame" x="0.0" y="45" width="375" height="622"/>
+                            <subviews>
+                                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SaJ-KY-n0L">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="602"/>
+                                    <subviews>
+                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="igW-Ll-yoI">
+                                            <rect key="frame" x="0.0" y="0.0" width="375" height="797.5"/>
+                                            <subviews>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Terms of use" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bZr-fM-hMp">
+                                                    <rect key="frame" x="87.5" y="30" width="200" height="31.5"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="30" id="U6P-Yr-RZ6"/>
+                                                        <constraint firstAttribute="width" constant="200" id="Z9K-IN-yz8"/>
+                                                    </constraints>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wNn-AE-ogh">
+                                                    <rect key="frame" x="20" y="91.5" width="335" height="676"/>
+                                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <attributedString key="attributedText">
+                                                        <fragment>
+                                                            <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </string>
+                                                            <attributes>
+                                                                <font key="NSFont" metaFont="system" size="14"/>
+                                                            </attributes>
+                                                        </fragment>
+                                                        <fragment>
+                                                            <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                                                            <attributes>
+                                                                <color key="NSColor" red="0.27059" green="0.27059" blue="0.27059" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                                            </attributes>
+                                                        </fragment>
+                                                        <fragment>
+                                                            <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                                                            <attributes>
+                                                                <color key="NSColor" red="0.27059" green="0.27059" blue="0.27059" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                                    <tabStops/>
+                                                                </paragraphStyle>
+                                                            </attributes>
+                                                        </fragment>
+                                                        <fragment>
+                                                            <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                                                            <attributes>
+                                                                <color key="NSColor" red="0.27059" green="0.27059" blue="0.27059" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                                            </attributes>
+                                                        </fragment>
+                                                        <fragment>
+                                                            <string key="content">Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                                            <attributes>
+                                                                <font key="NSFont" metaFont="system" size="14"/>
+                                                            </attributes>
+                                                        </fragment>
+                                                        <fragment>
+                                                            <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                                                            <attributes>
+                                                                <color key="NSColor" red="0.27059" green="0.27059" blue="0.27059" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                                            </attributes>
+                                                        </fragment>
+                                                        <fragment>
+                                                            <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                                                            <attributes>
+                                                                <color key="NSColor" red="0.27059" green="0.27059" blue="0.27059" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" lineSpacing="1" defaultTabInterval="28" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                                    <tabStops/>
+                                                                </paragraphStyle>
+                                                            </attributes>
+                                                        </fragment>
+                                                        <fragment>
+                                                            <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                                                            <attributes>
+                                                                <color key="NSColor" red="0.27059" green="0.27059" blue="0.27059" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <font key="NSFont" size="12" name="HelveticaNeue"/>
+                                                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO"/>
+                                                            </attributes>
+                                                        </fragment>
+                                                        <fragment>
+                                                            <string key="content">Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                                            <attributes>
+                                                                <font key="NSFont" size="14" name="HelveticaNeue"/>
+                                                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO"/>
+                                                            </attributes>
+                                                        </fragment>
+                                                    </attributedString>
+                                                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                                </textView>
+                                            </subviews>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <constraints>
+                                                <constraint firstItem="bZr-fM-hMp" firstAttribute="top" secondItem="igW-Ll-yoI" secondAttribute="top" constant="30" id="5ya-aO-BuV"/>
+                                                <constraint firstItem="wNn-AE-ogh" firstAttribute="leading" secondItem="igW-Ll-yoI" secondAttribute="leading" constant="20" id="G4v-gC-sf5"/>
+                                                <constraint firstItem="wNn-AE-ogh" firstAttribute="top" secondItem="bZr-fM-hMp" secondAttribute="bottom" constant="30" id="ISQ-KX-rmq"/>
+                                                <constraint firstItem="bZr-fM-hMp" firstAttribute="centerX" secondItem="igW-Ll-yoI" secondAttribute="centerX" id="bZO-oT-xYH"/>
+                                                <constraint firstAttribute="trailing" secondItem="wNn-AE-ogh" secondAttribute="trailing" constant="20" id="qQi-Jk-src"/>
+                                                <constraint firstAttribute="bottom" secondItem="wNn-AE-ogh" secondAttribute="bottom" constant="30" id="rkR-vM-Rnb"/>
+                                            </constraints>
+                                        </view>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="igW-Ll-yoI" firstAttribute="centerX" secondItem="SaJ-KY-n0L" secondAttribute="centerX" id="7cl-zh-H3d"/>
+                                        <constraint firstItem="igW-Ll-yoI" firstAttribute="top" secondItem="SaJ-KY-n0L" secondAttribute="top" id="T2D-Rn-AQs"/>
+                                        <constraint firstAttribute="bottom" secondItem="igW-Ll-yoI" secondAttribute="bottom" id="ZcM-19-AVo"/>
+                                        <constraint firstItem="igW-Ll-yoI" firstAttribute="leading" secondItem="SaJ-KY-n0L" secondAttribute="leading" id="hXR-PU-4M7"/>
+                                        <constraint firstAttribute="trailing" secondItem="igW-Ll-yoI" secondAttribute="trailing" id="xBU-Vo-wU7"/>
+                                    </constraints>
+                                </scrollView>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WgC-2z-49j">
+                                    <rect key="frame" x="325" y="20" width="30" height="30"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="30" id="aqf-kQ-iIO"/>
+                                        <constraint firstAttribute="height" constant="30" id="oOD-MT-Gig"/>
+                                    </constraints>
+                                    <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                    <state key="normal" image="x"/>
+                                    <connections>
+                                        <action selector="close:" destination="-1" eventType="touchUpInside" id="wCt-Ru-uPT"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="trailing" secondItem="WgC-2z-49j" secondAttribute="trailing" constant="20" id="8Nm-Fp-pwF"/>
+                                <constraint firstAttribute="trailing" secondItem="SaJ-KY-n0L" secondAttribute="trailing" id="Ul7-Bt-IEd"/>
+                                <constraint firstItem="WgC-2z-49j" firstAttribute="top" secondItem="bZO-St-YFf" secondAttribute="top" constant="20" id="Wuj-9k-xxs"/>
+                                <constraint firstItem="SaJ-KY-n0L" firstAttribute="leading" secondItem="bZO-St-YFf" secondAttribute="leading" id="Wum-aH-aDQ"/>
+                                <constraint firstAttribute="bottom" secondItem="SaJ-KY-n0L" secondAttribute="bottom" constant="20" id="dEh-3L-hAr"/>
+                                <constraint firstItem="SaJ-KY-n0L" firstAttribute="top" secondItem="bZO-St-YFf" secondAttribute="top" id="oUY-od-jHG"/>
+                            </constraints>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                    <integer key="value" value="20"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="bZO-St-YFf" secondAttribute="trailing" id="3Vx-pw-FQn"/>
+                        <constraint firstItem="bZO-St-YFf" firstAttribute="top" secondItem="BiW-gU-og9" secondAttribute="top" constant="45" id="GzA-mg-J6E"/>
+                        <constraint firstItem="bZO-St-YFf" firstAttribute="leading" secondItem="BiW-gU-og9" secondAttribute="leading" id="SfL-ik-aMG"/>
+                        <constraint firstAttribute="bottom" secondItem="bZO-St-YFf" secondAttribute="bottom" constant="-20" id="bsY-lr-hXX"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="BiW-gU-og9" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="FYc-NO-h4v"/>
+                <constraint firstAttribute="bottom" secondItem="BiW-gU-og9" secondAttribute="bottom" id="TxJ-Ei-kVc"/>
+                <constraint firstAttribute="trailing" secondItem="BiW-gU-og9" secondAttribute="trailing" id="Ylf-hr-rWg"/>
+                <constraint firstItem="BiW-gU-og9" firstAttribute="top" secondItem="Q5M-cg-NOt" secondAttribute="top" id="vOU-oG-Sek"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="Q5M-cg-NOt"/>
+            <point key="canvasLocation" x="33.5" y="53.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="x" width="20" height="20"/>
+    </resources>
+</document>

@@ -1,0 +1,107 @@
+//
+//  XSInfinity-Prefix.pch
+//  XSInfinity
+//
+//  Created by Joseph Marvin Magdadaro on 5/24/18.
+//  Copyright © 2018 Joseph Marvin Magdadaro. All rights reserved.
+//
+
+#ifndef XSInfinity_Prefix_pch
+#define XSInfinity_Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import <CoreData/CoreData.h>
+#import "UILabel+CustomLabel.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+static NSString * const MainURL = @"https://infdev.xs10plan.com/";
+static NSString * const CoachMainURL = @"https://dev.zhangshu.coach/";
+
+//translations key for data
+static NSString * const Cf_domain_model_Module = @"Cf\\Inf\\Domain\\Model\\Module_";
+static NSString * const Cf_domain_model_Habit = @"Cf\\Inf\\Domain\\Model\\Habit_";
+static NSString * const Cf_domain_model_Exercise = @"Cf\\Inf\\Domain\\Model\\Exercise_";
+static NSString * const Cf_domain_model_Faq = @"Cf\\Inf\\Domain\\Model\\Faq_";
+static NSString * const Cf_domain_model_FaqCategory = @"Cf\\Inf\\Domain\\Model\\FaqCategory_";
+static NSString * const Cf_domain_model_FocusArea = @"Cf\\Inf\\Domain\\Model\\FocusArea_";
+static NSString * const Cf_domain_model_Tag = @"Cf\\Inf\\Domain\\Model\\Tag_";
+
+//status code for timeout and no internet
+typedef NS_ENUM(NSUInteger, InternetConnectionError)
+{
+    NoInternetErrorStatusCode = -1009,
+    SlowInternetErrorStatusCode = -1001,
+    Unauthorized = 403
+};
+
+typedef NS_ENUM(NSUInteger, Difficulties)
+{
+    Easy,
+    Medium,
+    Hard
+};
+
+#define RGBUIColorWithAlpha(r, g, b, a)  [UIColor colorWithRed:((r) / 255.0) green:((g) / 255.0) blue:((b) / 255.0) alpha:(a)]
+
+#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v)  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
+
+//IS HEADSUP_HIDDEN?
+#define IS_FINISH_ONBOARDING [[NSUserDefaults standardUserDefaults] objectForKey:@"OnBoarding"]
+
+//SET HEADSUP_HIDDEN
+#define FINISH_ONBOARDING(isFinished) [[NSUserDefaults standardUserDefaults] setBool:isFinished forKey:@"OnBoarding"]
+
+#define LAST_TIME_APPREVIEW_APPEARED [[NSUserDefaults standardUserDefaults] objectForKey:@"LastTimeAppReviewAppear"]
+#define SET_LAST_TIME_APPREVIEW_APPEARED(d) [[NSUserDefaults standardUserDefaults] setObject:d forKey:@"LastTimeAppReviewAppear"];
+
+//USER ID
+#define USER_ID [[NSUserDefaults standardUserDefaults] objectForKey:@"UserIdentifier"]
+
+//SET USER ID
+#define SET_USER_ID(identifier)  [[NSUserDefaults standardUserDefaults] setObject:identifier forKey:@"UserIdentifier"]; [[NSUserDefaults standardUserDefaults] synchronize];
+
+//USER DATE REGISTERED
+#define DATE_USER_REGISTERED [[NSUserDefaults standardUserDefaults] objectForKey:@"DateUserRegistered"]
+
+//USER DATE REGISTERED
+#define SET_DATE_USER_REGISTERED(d)  [[NSUserDefaults standardUserDefaults] setObject:d forKey:@"DateUserRegistered"]; [[NSUserDefaults standardUserDefaults] synchronize];
+
+//IS HABITS_ACTIVATED?
+#define IS_HABITS_ACTIVATED [[NSUserDefaults standardUserDefaults] boolForKey:@"habitsActivated"]
+
+//SET HABITS_ACTIVATED
+#define HABITS_ACTIVATED(isActivate) [[NSUserDefaults standardUserDefaults] setBool:isActivate forKey:@"habitsActivated"]; [[NSUserDefaults standardUserDefaults] synchronize];
+
+//IS HEADSUP_HIDDEN?
+#define DATE_HEADS_UP_HIDDEN [[NSUserDefaults standardUserDefaults] objectForKey:@"headsUpHidden"]
+#define IS_HEADS_UP_HIDDEN_PERMANENTLY [[NSUserDefaults standardUserDefaults] boolForKey:@"headsUpHiddenPermanent"]
+
+//SET HEADSUP_HIDDEN
+#define HIDE_HEADS_UP_TODAY(currDate) [[NSUserDefaults standardUserDefaults] setObject:currDate forKey:@"headsUpHidden"]; [[NSUserDefaults standardUserDefaults] synchronize];
+#define HIDE_HEADS_UP_PERMANENT(ishide) [[NSUserDefaults standardUserDefaults] setBool:ishide forKey:@"headsUpHiddenPermanent"]; [[NSUserDefaults standardUserDefaults] synchronize];
+
+//IS IS_HABITS_ACTIVATED?
+#define LANGUAGE_KEY [[NSUserDefaults standardUserDefaults] stringForKey:@"languageKey"]
+
+//SET HABITS_ACTIVATED
+#define SET_LANGUAGE_KEY(key) [[NSUserDefaults standardUserDefaults] setObject:key forKey:@"languageKey"]; [[NSUserDefaults standardUserDefaults] synchronize];
+
+//IS LAST_TIME_IN_BACKGROUND?
+#define LAST_TIME_IN_BACKGROUND [[NSUserDefaults standardUserDefaults] objectForKey:@"lastTimeInBackground"]
+
+//SET SET_LAST_TIME_IN_BACKGROUND
+#define SET_LAST_TIME_IN_BACKGROUND(dt) [[NSUserDefaults standardUserDefaults] setObject:dt forKey:@"lastTimeInBackground"]; [[NSUserDefaults standardUserDefaults] synchronize];
+
+#define IS_OS_8_OR_LATER    ([[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0)
+#define IS_IPAD (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+#define IS_IPHONE (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
+#define IS_IPHONE_4 ( fabs( ( double )[ [ UIScreen mainScreen ] bounds ].size.height - ( double )480 ) < DBL_EPSILON )
+#define IS_IPHONE_5 (IS_IPHONE && ([[UIScreen mainScreen] bounds].size.height == 568.0) && ((IS_OS_8_OR_LATER && [UIScreen mainScreen].nativeScale == [UIScreen mainScreen].scale) || !IS_OS_8_OR_LATER))
+#define IS_STANDARD_IPHONE_6 (IS_IPHONE && [[UIScreen mainScreen] bounds].size.height == 667.0  && IS_OS_8_OR_LATER && [UIScreen mainScreen].nativeScale == [UIScreen mainScreen].scale)
+#define IS_ZOOMED_IPHONE_6 (IS_IPHONE && [[UIScreen mainScreen] bounds].size.height == 568.0 && IS_OS_8_OR_LATER && [UIScreen mainScreen].nativeScale > [UIScreen mainScreen].scale)
+#define IS_STANDARD_IPHONE_6_PLUS (IS_IPHONE && [[UIScreen mainScreen] bounds].size.height == 736.0)
+#define IS_ZOOMED_IPHONE_6_PLUS (IS_IPHONE && [[UIScreen mainScreen] bounds].size.height == 667.0 && IS_OS_8_OR_LATER && [UIScreen mainScreen].nativeScale < [UIScreen mainScreen].scale)
+
+#endif /* XSInfinity_Prefix_pch */

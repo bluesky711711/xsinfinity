@@ -1,0 +1,42 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Description of what the lane does"
+  lane :custom_lane do
+    # add actions here: https://docs.fastlane.tools/actions
+  end
+end
+
+
+lane :beta do
+  get_certificates           # invokes cert
+  get_provisioning_profile   # invokes sigh
+  build_app(
+    scheme: "XSInfinity",
+    workspace: "XSInfinity.xcworkspace",
+    include_bitcode: false,
+    export_options: {
+      provisioningProfiles: {
+        "com.oliver.xsinfinity": "xsinfinityDist",
+        "com.oliver.xsinfinity.PushNotifExtension": "xsinfinity_appstore"
+      }
+    }
+  )
+  crashlytics(api_token: "907da275b9a402d3726c5f52384f6765d6158f31",
+    build_secret: "0a9e531af9daa34fd5aeaf98cc85292727b3e4f68b3071aa501d3d486249e9c0")
+end

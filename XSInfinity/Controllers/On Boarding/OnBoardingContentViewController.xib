@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="OnBoardingContentViewController">
+            <connections>
+                <outlet property="btn" destination="Ncz-1D-O2N" id="muz-HA-MDO"/>
+                <outlet property="imageView" destination="R01-8l-TQg" id="kb8-YB-yrT"/>
+                <outlet property="imageViewConstraintHeight" destination="wM0-we-FKy" id="qae-Ot-CrT"/>
+                <outlet property="instructionConstraintHeight" destination="3Vb-8w-gkf" id="2C8-P9-YbH"/>
+                <outlet property="instructionLbl" destination="LE0-WB-Zxr" id="jM1-jZ-o4U"/>
+                <outlet property="linksLbl" destination="MEv-Yj-KBh" id="TcC-49-Y3q"/>
+                <outlet property="linksTxtView" destination="DEz-b5-E3c" id="oIS-VN-eAP"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="placeholder-background-profile-user" translatesAutoresizingMaskIntoConstraints="NO" id="R01-8l-TQg">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="350"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="350" id="wM0-we-FKy"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LE0-WB-Zxr">
+                    <rect key="frame" x="16" y="370" width="343" height="136"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="136" id="3Vb-8w-gkf"/>
+                    </constraints>
+                    <attributedString key="attributedText">
+                        <fragment content="Label">
+                            <attributes>
+                                <color key="NSColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <font key="NSFont" metaFont="system" size="17"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineHeightMultiple="1.3999999999999999" tighteningFactorForTruncation="0.0"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ncz-1D-O2N">
+                    <rect key="frame" x="60" y="526" width="256" height="50"/>
+                    <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="256" id="RNC-eg-wNn"/>
+                        <constraint firstAttribute="height" constant="50" id="Te6-nU-gRs"/>
+                    </constraints>
+                    <state key="normal" title="Button"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="5"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="goToNext:" destination="-1" eventType="touchUpInside" id="HEY-6F-IRK"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MEv-Yj-KBh">
+                    <rect key="frame" x="16" y="595" width="343" height="53"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="DEz-b5-E3c">
+                    <rect key="frame" x="16" y="595" width="343" height="53"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <attributedString key="attributedText">
+                        <fragment content="Privacy Policy and Terms of Service">
+                            <attributes>
+                                <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <font key="NSFont" metaFont="system" size="17"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    <dataDetectorType key="dataDetectorTypes" link="YES"/>
+                </textView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="MEv-Yj-KBh" secondAttribute="trailing" constant="16" id="GdU-Do-CO0"/>
+                <constraint firstItem="R01-8l-TQg" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="TDb-CN-AwT"/>
+                <constraint firstItem="DEz-b5-E3c" firstAttribute="bottom" secondItem="MEv-Yj-KBh" secondAttribute="bottom" id="TRW-Ti-gyx"/>
+                <constraint firstItem="MEv-Yj-KBh" firstAttribute="top" secondItem="Ncz-1D-O2N" secondAttribute="bottom" constant="19" id="hu5-z5-k5f"/>
+                <constraint firstItem="Ncz-1D-O2N" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="iec-SC-rfI"/>
+                <constraint firstAttribute="trailing" secondItem="R01-8l-TQg" secondAttribute="trailing" id="jdr-2d-JtN"/>
+                <constraint firstItem="Ncz-1D-O2N" firstAttribute="top" secondItem="LE0-WB-Zxr" secondAttribute="bottom" constant="20" id="lio-6E-znm"/>
+                <constraint firstItem="LE0-WB-Zxr" firstAttribute="top" secondItem="R01-8l-TQg" secondAttribute="bottom" constant="20" id="oTG-Ze-4jO"/>
+                <constraint firstItem="LE0-WB-Zxr" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="16" id="pg1-O3-kcu"/>
+                <constraint firstAttribute="trailing" secondItem="LE0-WB-Zxr" secondAttribute="trailing" constant="16" id="qPa-WA-SgZ"/>
+                <constraint firstItem="DEz-b5-E3c" firstAttribute="leading" secondItem="MEv-Yj-KBh" secondAttribute="leading" id="r5v-6w-Zwf"/>
+                <constraint firstItem="DEz-b5-E3c" firstAttribute="top" secondItem="MEv-Yj-KBh" secondAttribute="top" id="tu4-DW-nER"/>
+                <constraint firstAttribute="bottom" secondItem="MEv-Yj-KBh" secondAttribute="bottom" constant="19" id="uFM-ib-DzI"/>
+                <constraint firstItem="R01-8l-TQg" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="vXa-wG-efR"/>
+                <constraint firstItem="DEz-b5-E3c" firstAttribute="trailing" secondItem="MEv-Yj-KBh" secondAttribute="trailing" id="vp3-fR-uTp"/>
+                <constraint firstItem="MEv-Yj-KBh" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="16" id="xMl-4Z-r3Z"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="Q5M-cg-NOt"/>
+            <point key="canvasLocation" x="-955.5" y="-86.5"/>
+        </view>
+        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="NWe-qW-a0G">
+            <rect key="frame" x="0.0" y="0.0" width="42" height="21"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+            <nil key="textColor"/>
+            <nil key="highlightedColor"/>
+            <point key="canvasLocation" x="-171" y="308"/>
+        </label>
+    </objects>
+    <resources>
+        <image name="placeholder-background-profile-user" width="750" height="500"/>
+    </resources>
+</document>

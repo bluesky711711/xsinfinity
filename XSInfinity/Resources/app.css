@@ -1,0 +1,33 @@
+@font-face
+{
+    font-family: 'NotoSansHans-Black';
+    src: local('NotoSansHans-Black'),url('NotoSansHans-Black.otf') format('opentype');
+}
+@font-face
+{
+    font-family: 'NotoSansHans-Light';
+    src: local('NotoSansHans-Light'),url('NotoSansHans-Light.otf') format('opentype');
+}
+
+@font-face
+{
+    font-family: 'MicrosoftYaHei-Bold';
+    src: local('MicrosoftYaHei-Bold'),url('MicrosoftYaHei-Bold.ttf') format('opentype');
+}
+
+@font-face
+{
+    font-family: 'MicrosoftYaHei';
+    src: local('MicrosoftYaHei'),url('MicrosoftYaHei.ttf') format('opentype');
+}
+
+
+body
+{
+    font-family: 'NotoSansHans-Light';
+    font-size: 40px;
+    color: 'red';
+}
+
+
+

@@ -1,0 +1,6602 @@
+[
+{
+"id": "exfilter.reset_button",
+"lastModified": "2018-12-08T05:51:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "清空筛选条件",
+"identifier": "0000cfc2-0340-4ebd-a929-2eca3b4d800c"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FaqCategory_e857b2dd-da26-4d6a-aa23-324beecc57c6.title",
+"lastModified": "2018-09-08T05:25:17+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 演習",
+"identifier": "00544505-9265-46ce-97cc-4e6206f6ace5"
+},
+{
+"id": "profimg.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Select crop area",
+"identifier": "00912fee-0116-4b7a-91b0-ef32dd4fa0cf"
+},
+{
+"id": "headsup.msg4",
+"lastModified": "2018-12-08T05:52:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我的习惯被重置了。怎么回事儿？",
+"identifier": "00cc8a10-da3d-4ec7-b51c-2ba594179468"
+},
+{
+"id": "extype.set",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Set",
+"identifier": "00fb1c27-d2d2-4ed6-8d40-5b7dfa1aa767"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_72f89349-0044-405b-af2a-23404ac8352b.name",
+"lastModified": "2018-10-23T02:03:53+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯＃1",
+"identifier": "011162fa-e294-4f04-931e-c9601a655d1a"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_6ef030d9-2bf9-4e70-a630-53dfe18d3677.name",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Punch routine",
+"identifier": "01251601-6be4-4132-bb22-65087d58cdbb"
+},
+{
+"id": "activationsuccess.support",
+"lastModified": "2018-12-08T05:53:10+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我需要帮助",
+"identifier": "012f1a1e-8ef1-4e84-b56f-dce363657dfc"
+},
+{
+"id": "info.deleteimage",
+"lastModified": "2018-11-22T06:22:30+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Are you sure you want to delete this image?",
+"identifier": "0164f34c-f1c2-46ae-9ab4-58e6bee839ad"
+},
+{
+"id": "perf.monthapr",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "April",
+"identifier": "016f4bd0-f595-4949-a29d-8a542f1de618"
+},
+{
+"id": "perf.lastweek",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "上个星期",
+"identifier": "02163eae-319e-4584-a436-5c54c52a113f"
+},
+{
+"id": "global.tryfreetitle",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "免费试用",
+"identifier": "026015ab-9d12-4857-9017-8780aeb5b6e5"
+},
+{
+"id": "info.habitidtoohigh",
+"lastModified": "2018-12-17T11:12:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "The given habit as a too high order id for the actual period. ",
+"identifier": "02a5b37b-275a-47ba-b6bc-e444f07e85cc"
+},
+{
+"id": "signin.forgotpassword_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Forgot password?",
+"identifier": "02c4142e-a366-4113-b348-126655359d02"
+},
+{
+"id": "activationsuccess.text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Dear {0}, you did not activate your account within the last 24 hours.Please click the link in the email you received.",
+"identifier": "032a1283-a0ca-4941-b651-9d198bb9975f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_622173b9-08c9-43a3-bc4d-4e6d95c6e06b.description",
+"lastModified": "2018-07-12T10:15:51+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module 3 explanation Workout module 3 explanationWorkout module 3 explanationWorkout module 3 explanation",
+"identifier": "0363a5dc-6e38-4753-90cb-e8780e7aec52"
+},
+{
+"id": "user.addfirstimage",
+"lastModified": "2018-12-08T06:30:01+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "新增第一个图片",
+"identifier": "04745e28-0add-4eaa-929f-e4acf5ea1fc0"
+},
+{
+"id": "perf.daysun",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "星期日",
+"identifier": "05362943-5f68-4c53-92af-0fcbc168429c"
+},
+{
+"id": "perf.daywed",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "星期三",
+"identifier": "0605bbf0-1d06-4f58-bb10-806f86e8a8a9"
+},
+{
+"id": "global.backbuttonnav",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "导航栏上的后退按钮",
+"identifier": "0624a0b1-8be0-448d-ab5f-ed8e6694fcc4"
+},
+{
+"id": "exfilter.mytop10",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "前10名",
+"identifier": "06553265-344c-4e34-9187-ab3e9a8d0c05"
+},
+{
+"id": "perf.dayfri",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "星期五",
+"identifier": "0686cb68-d11d-4e60-96c5-33e9c3e732a7"
+},
+{
+"id": "ex.surprisedescription",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Not sure what to do today? Get a surprise workout!",
+"identifier": "070af415-fd75-481c-b884-7b2c6723ccd5"
+},
+{
+"id": "info.removeimage",
+"lastModified": "2018-11-22T06:23:24+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Image removed from gallery",
+"identifier": "07131757-9492-4077-be7f-1d38ee9d95c4"
+},
+{
+"id": "signin.forgotpassword_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "忘记密码？",
+"identifier": "072cd369-a069-4fef-9a66-2ff8e2fa9605"
+},
+{
+"id": "profile.zip",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "压缩",
+"identifier": "0744ce41-ddea-4b29-9299-f887418c00cd"
+},
+{
+"id": "perf.viewof",
+"lastModified": "2018-12-09T07:16:48+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "正在查看",
+"identifier": "079220e7-85d3-4ba8-9553-6bdf109d19c0"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_b66b64a0-130d-41b2-9824-434862120045.description",
+"lastModified": "2018-11-02T05:20:58+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "This is a great module",
+"identifier": "07976158-70e2-4f96-a028-40670db8d7f4"
+},
+{
+"id": "habitchall.gotitbutton",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Got it!",
+"identifier": "07aade17-cc06-4f68-87b4-8ee2189df848"
+},
+{
+"id": "info.photolibrary",
+"lastModified": "2018-11-22T06:10:08+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Photo Library",
+"identifier": "07f6e809-e40b-41a4-842a-c7acc18180be"
+},
+{
+"id": "push.notification.dailyHabitsNotFinished",
+"lastModified": "2018-11-16T09:07:11+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "You did not finish your daily habits!",
+"identifier": "080c588b-0360-41ac-80b7-a54d9a7ff832"
+},
+{
+"id": "dailylog.exercisesfinished",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "exercises finished",
+"identifier": "08553740-01ae-4d22-b1a1-4cbd0f2847b8"
+},
+{
+"id": "onboard.button1",
+"lastModified": "2018-12-08T06:18:57+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Yeah, let's do it.",
+"identifier": "08d308b5-ed3f-4022-8977-6284889f4eeb"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_72c4e3b9-7438-4c24-8509-a1fce5e4ff54.title",
+"lastModified": "2018-09-08T05:34:44+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "How was Darth Vader as a father?",
+"identifier": "09127156-1702-4430-9ed2-2a02f286c478"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_e06d8952-7d93-4c17-a54b-276bd01c210a.name",
+"lastModified": "2018-07-15T20:22:37+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "组做完了",
+"identifier": "092489e3-6b81-42f7-bfb4-93b937e54f31"
+},
+{
+"id": "regstep2.zip",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "ZIP",
+"identifier": "0973949c-24d7-4650-9a03-c58f3857ae2d"
+},
+{
+"id": "habit.tracker_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "daily success tracker",
+"identifier": "09d338c5-fa72-4992-b0dc-64cfb313ecad"
+},
+{
+"id": "habit.availhabits",
+"lastModified": "2018-09-06T08:44:57+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Available habits",
+"identifier": "0a95113b-d332-45b0-aff4-a44220b1909d"
+},
+{
+"id": "excan.descr",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Do you want to stop the exercise? Your progress will be reset.",
+"identifier": "0b06ee17-96c0-4ac2-b664-c64a8f73f75d"
+},
+{
+"id": "perf.monthjan",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "一月",
+"identifier": "0b2fbf76-c233-4e01-aedb-2b33b79c0f57"
+},
+{
+"id": "newpassword.newpassword_field",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "新密码",
+"identifier": "0b48cfcb-c026-43f3-bc95-06f342d5b10d"
+},
+{
+"id": "push.notification.newUnlockedExercises",
+"lastModified": "2019-01-11T09:28:07+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "oh yeah! 您的新训练: {0}, {1} 已经被激活了，赶紧来练吧！",
+"identifier": "0b4b9c7b-cdb5-4da8-8ef8-5104ead3d410"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_043890b8-57c8-4ef2-a30e-36981b633e1a.name",
+"lastModified": "2018-07-15T20:23:18+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise 6 module x",
+"identifier": "0b5d7b1c-20c8-4e63-8dfd-90e642a98ed9"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_4379d2c6-ae6e-480d-8d31-06297e292e5c.name",
+"lastModified": "2019-01-10T05:58:19+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfh3",
+"identifier": "0b844fc2-5418-44f0-b93c-340223006cc9"
+},
+{
+"id": "global.reps",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Repetitions",
+"identifier": "0bb26ce2-8005-439b-8136-a60a5ec19f52"
+},
+{
+"id": "headsup.msg5",
+"lastModified": "2018-12-09T07:24:45+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "昨天你打开XSinfinity{0}次：你得了{0}分。",
+"identifier": "0bba7b97-d79e-4e2d-ac54-0d815f2fb4bc"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_0b983269-2071-43a8-9681-206c4b8efe28.name",
+"lastModified": "2018-10-21T08:59:13+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "臂",
+"identifier": "0c8102bb-0602-4716-b0b8-bb12ed9f2df8"
+},
+{
+"id": "regstep2.street",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "street",
+"identifier": "0c9c1d5d-79b4-43e8-a53e-337f5b9143af"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_cc2cfa98-037a-4943-987f-d299fa5f64c2.howToUseDescription",
+"lastModified": "2019-01-13T05:37:54+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module 6 explanation how to use explanation",
+"identifier": "0d20ee03-539a-4404-aaf7-d43228cbc52e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e549067c-04be-4f61-a304-8d303c817509.description",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "C description",
+"identifier": "0e01cf6f-36aa-4e54-b3dc-a7fdc59384b4"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_ca85b41b-41ea-41ab-9d97-26e89c5d5e73.description",
+"lastModified": "2018-07-12T10:13:09+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Module 1 Lorem ipsum dolor sit amet, consetetur sadipscing elitr",
+"identifier": "0e33bfaa-bb12-41f4-9649-d882a6eb582c"
+},
+{
+"id": "tryforfree.name_field",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Your Name",
+"identifier": "0e3af28f-7206-45ad-9917-e20a79c11557"
+},
+{
+"id": "ex.of",
+"lastModified": "2018-12-18T03:46:21+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "/",
+"identifier": "0e476961-a04d-4fdf-80b4-225ecca3f46d"
+},
+{
+"id": "ratepop.nothanks",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "No, thanks",
+"identifier": "0e62f83f-7123-43bb-b6d7-08e53cff6342"
+},
+{
+"id": "purchmodule.exercises",
+"lastModified": "2018-12-09T07:25:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "训练",
+"identifier": "0ee07db1-4958-4d26-bc4f-933331fc93b0"
+},
+{
+"id": "habitchall.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Help",
+"identifier": "0f302b2a-405b-436e-876d-26bbbd5ba64b"
+},
+{
+"id": "exfilter.onlyshowcheckboxes",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "only show my",
+"identifier": "0f786cbe-513f-44df-ade7-64e44480f0da"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e118922f-3506-4f44-befb-2438b6b8868f.howToUseDescription",
+"lastModified": "2019-01-10T05:46:25+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module how to use it.",
+"identifier": "104ed0d3-4484-443f-a192-0ffa70a6baab"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_1ad8de3b-fee1-4ae4-94b1-daabd93aae52.name",
+"lastModified": "2018-07-15T20:21:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 锻炼模块2",
+"identifier": "105c13af-0979-4eea-bca6-5c5e3ca6eda2"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_99bc9c2c-8688-462b-b5c4-b4650f887812.excerpt",
+"lastModified": "2018-10-23T02:14:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "有时候不得不喜欢互联网。 我在80年代把收音机录下来。 我不知道它叫什么。 刚刚听了一些Khruangbin（“新的”音乐到50多岁），youtube决定我可能喜欢这个。 它花了35年才发现！ 到现在为止，我只能把它形容为“应该在现代启示录音乐中的一首歌”",
+"identifier": "10dea2ad-b7e8-46a3-94ae-19bb27272ad0"
+},
+{
+"id": "profile.faqlink",
+"lastModified": "2018-12-09T07:26:04+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "常见问题",
+"identifier": "110b784f-fc8e-47c5-91e7-5075740c4f64"
+},
+{
+"id": "perf.monthoct",
+"lastModified": "2018-11-26T07:02:34+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "十月",
+"identifier": "1152a76e-1173-4345-9866-c3f561898325"
+},
+{
+"id": "faq.topquestions",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "热门问题",
+"identifier": "1170830e-e398-4e96-a595-dbf8331c0d3f"
+},
+{
+"id": "profile.country",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Country",
+"identifier": "117e0c04-5074-4f0f-950c-3cf47867c18f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_abe1dadb-a407-48ad-8f00-62eb68458e49.name",
+"lastModified": "2019-01-10T05:55:53+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutf2m-cn",
+"identifier": "11a8caf8-aed1-4d77-978b-405091297164"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_b488126a-ef60-4f3f-b042-5754069cf182.answer",
+"lastModified": "2018-09-08T05:33:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "並希望在啟動在線商店之前對其進行測試並希望在啟動在線商店之前對其進行測試並希望在啟動在線商店之前對其進行測試並希望在啟動在線商店之前對其進行測試",
+"identifier": "11f1800b-6cd7-40ef-986e-4b835dbed4a6"
+},
+{
+"id": "purchmodule.popuptext",
+"lastModified": "2018-12-09T07:27:44+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请登录XSinfinity网站，在控制面板里激活本套课程。",
+"identifier": "11f65ea5-1b04-43fb-8fc8-b80b480e0917"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_9c80f000-d182-4bca-8f81-d30f41b8b942.description",
+"lastModified": "2019-01-10T06:00:19+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfe1",
+"identifier": "121f1c27-8eae-43da-8469-463fafd66e2a"
+},
+{
+"id": "info.userblocked",
+"lastModified": "2018-11-22T06:13:07+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "User is blocked",
+"identifier": "128e260a-25bf-460f-a191-ebe916c378d5"
+},
+{
+"id": "headsup.msg4",
+"lastModified": "2018-06-21T06:18:59+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit tracker was resetted. Why?",
+"identifier": "12b86c5d-efe4-4839-97a8-7429c6f0ccc4"
+},
+{
+"id": "user.addfirstimage",
+"lastModified": "2018-12-08T06:30:01+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Add your first image",
+"identifier": "13cd439c-23a6-4c43-8918-274baf898d5d"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_6a642b6b-b876-472b-b1b3-f72988b95222.name",
+"lastModified": "2018-07-15T20:20:43+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise 3 module x",
+"identifier": "13ecf273-229e-4b2f-b166-7e2b454ac13b"
+},
+{
+"id": "habactive.description",
+"lastModified": "2018-12-17T11:07:39+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯培养挑战说明",
+"identifier": "14088c7b-62a6-4974-bab2-cf08589019e1"
+},
+{
+"id": "regstep2.country",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "country",
+"identifier": "140d279f-f275-41ef-9fba-9c85e09c9151"
+},
+{
+"id": "info.addphoto",
+"lastModified": "2018-11-22T06:04:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "添加照片",
+"identifier": "1433b589-c416-4a20-bf85-04e0db80687d"
+},
+{
+"id": "exfilter.applyfilterbutton",
+"lastModified": "2018-11-24T04:44:13+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Apply filter",
+"identifier": "14f39952-e6ce-4974-afb9-030108d9c477"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_95912203-0576-4f85-b6ac-e9d378d32432.name",
+"lastModified": "2018-07-12T10:17:39+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块5",
+"identifier": "1503dcda-3731-4517-a470-24aea799a3f0"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_e6e50dec-69f4-4a41-9ec2-755520606d46.name",
+"lastModified": "2019-01-10T05:53:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutf3cn",
+"identifier": "15298fea-fedb-4a68-bc5b-fb3d667d13fb"
+},
+{
+"id": "perf.showme",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Show me all",
+"identifier": "154da813-2887-478c-8f12-4ebf5ddb30ce"
+},
+{
+"id": "profile.notifications_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "通知",
+"identifier": "1603d5ee-35a8-4b7a-be35-bc6194c4c740"
+},
+{
+"id": "exfilter.onlyshowdiff",
+"lastModified": "2018-11-24T04:43:24+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Only show difficulty",
+"identifier": "161394d4-ceec-4e9b-b6e5-235566af6e75"
+},
+{
+"id": "regstep1a.description",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Upload your profile picture,",
+"identifier": "16b054c5-4758-4d2c-8926-3306ff2b4a27"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_112e75cd-bdd6-445e-af3b-096c202bc926.answer",
+"lastModified": "2018-09-08T05:32:33+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 如果您是WooCommerce的新手，並希望在啟動在線商店之前對其進行測試，您可以創建一個類似於上面鏈接的模擬商店。這是一個很好的方式來啟動輪胎並測試電子商務設置中的不同流程。",
+"identifier": "16f1c5cd-a405-4628-a23c-10549f209338"
+},
+{
+"id": "info.pwreset",
+"lastModified": "2018-11-22T06:02:53+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Password Resetted",
+"identifier": "171d3283-724f-46ee-b83a-3e57d75785b2"
+},
+{
+"id": "perf.monthdec",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "December",
+"identifier": "175e3993-c1c9-4367-a749-526663d8c90f"
+},
+{
+"id": "Imprint.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Imprint",
+"identifier": "17befea7-b797-4a27-897e-74b15577c251"
+},
+{
+"id": "tryforfree.name_field",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你的名字",
+"identifier": "17c19c56-d53f-48a5-bd2b-4e5484f2a4a7"
+},
+{
+"id": "perf.habit",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habits",
+"identifier": "188bb116-628e-40a2-9d51-7ecc9c970f2f"
+},
+{
+"id": "perf.monthjun",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "六月",
+"identifier": "18a9da9f-7fe5-4f1d-84b4-f76eb95b5345"
+},
+{
+"id": "dailylog.appusedtoday",
+"lastModified": "2018-12-17T11:04:53+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "今日app使用次数",
+"identifier": "18aad44b-4d73-4cee-aaab-205ce5aab2bc"
+},
+{
+"id": "global.sets",
+"lastModified": "2018-12-10T06:19:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "组数",
+"identifier": "18c45dbb-81bb-43bb-b30a-f73bd8675c4b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FocusArea_d338505f-00c6-452d-a434-4934b5373049.name",
+"lastModified": "2018-07-12T11:42:23+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Chest",
+"identifier": "190b6e5a-77da-4060-80c9-bdf20912f3a7"
+},
+{
+"id": "habitchall.gotitbutton",
+"lastModified": "2018-12-09T07:17:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "明白啦！",
+"identifier": "197b64e9-d2c4-406d-8a8a-d9fb912fff0b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_a2f76cd3-08be-440b-aeaf-cd851f1553ea.description",
+"lastModified": "2019-01-10T05:56:34+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutf3mCN",
+"identifier": "19b8eb1f-0437-455c-97ef-f86954394e44"
+},
+{
+"id": "push.notification.habitCounterReset",
+"lastModified": "2018-12-10T06:24:48+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "从头开始吧！由于你没有连续6天完成当前的习惯，需要从本习惯的第1天开始。习惯切记不能忘哦！",
+"identifier": "1a8a1cda-fcb7-4d88-9ac9-798105fd160b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_efe9595d-38b1-4d5d-a7c0-3f1ec5536565.name",
+"lastModified": "2018-10-23T02:13:16+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit #6",
+"identifier": "1bc0dbe9-f98b-4ff5-a0b4-aa351786a0c3"
+},
+{
+"id": "exfilter.applyfilterbutton",
+"lastModified": "2018-12-10T06:13:40+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "开始过滤",
+"identifier": "1c067f16-bd33-495a-b347-5b2229647f99"
+},
+{
+"id": "user.minimumhabits",
+"lastModified": "2018-12-17T11:01:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每日习惯任务",
+"identifier": "1c4700e1-d8b3-43f0-8fc5-48619c370dce"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FaqCategory_3a3d1b9b-de84-4f68-9418-6765c4d13d3a.title",
+"lastModified": "2018-09-08T05:24:33+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "一般",
+"identifier": "1c570d43-446a-4eb6-8e13-6d662440734b"
+},
+{
+"id": "onboard.text3",
+"lastModified": "2018-12-10T06:27:00+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每天打卡，逐步培养饮食习惯。",
+"identifier": "1cdd0716-8ae8-467a-acb3-fd0096d948b0"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_e9be9a7a-f692-474a-afd0-fb433f8d08f6.title",
+"lastModified": "2018-09-08T05:29:12+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Where can I download the app?",
+"identifier": "1cf2459a-2e2a-42c4-9c54-886782984783"
+},
+{
+"id": "faq.needhelplink",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我需要更多的帮助",
+"identifier": "1d6724be-57a7-460c-9d8f-90b598e8cd50"
+},
+{
+"id": "faq.gotit_button",
+"lastModified": "2018-12-10T06:28:45+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "好滴，我明白啦！",
+"identifier": "1d7758c9-64ea-4a3d-b8f1-0c5a4e46f66f"
+},
+{
+"id": "global.ratetoohard",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Too hard",
+"identifier": "1dbf8de4-da26-44ea-a310-a6b3d94aab34"
+},
+{
+"id": "upload.private",
+"lastModified": "2018-12-10T06:29:45+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "仅自己可见",
+"identifier": "1e538e52-6a18-4e47-9c40-3b72f0f1ef7e"
+},
+{
+"id": "ex.completed",
+"lastModified": "2018-12-10T06:31:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已完成",
+"identifier": "1e5cb481-8880-415d-8b84-c415a53eebd0"
+},
+{
+"id": "exsingle.finished",
+"lastModified": "2018-12-17T10:58:44+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已练过的次数",
+"identifier": "1eacb5fc-9425-4f0f-8fb5-e27ef1811985"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_a2f76cd3-08be-440b-aeaf-cd851f1553ea.name",
+"lastModified": "2019-01-10T05:56:34+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutf3mCN",
+"identifier": "1ed001b5-418d-482f-b4a6-8e9ed9b32d74"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e118922f-3506-4f44-befb-2438b6b8868f.name",
+"lastModified": "2019-01-10T05:49:46+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Free 2",
+"identifier": "1ed117d0-9b37-4da6-8f6a-d960adb509d9"
+},
+{
+"id": "habit.notfinishedselector",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "not completed",
+"identifier": "1ef530ee-f978-4b64-b6b1-0835c093c44c"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_64072af7-ade5-4d03-ba22-7ffd0beffadd.name",
+"lastModified": "2018-07-12T10:17:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块4",
+"identifier": "1fade211-71f7-4940-b658-b21d2d74aeda"
+},
+{
+"id": "info.addphotofrom",
+"lastModified": "2018-11-22T06:04:47+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Add photo from",
+"identifier": "1fbc0c45-73b4-4719-9e88-69de85aae5b8"
+},
+{
+"id": "push.notification.dailyPersonalExerciseGoalNotReached",
+"lastModified": "2018-12-16T04:07:01+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "You did not reach you daily exercise goal yet, better start right now :D",
+"identifier": "2079f585-f8e8-4446-b9dd-5684191c9c5d"
+},
+{
+"id": "habit.finishall_button",
+"lastModified": "2018-12-16T04:07:25+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已完成今天所有的习惯啦！",
+"identifier": "207b4424-eefc-4f1c-9f30-644ee4b6e3e9"
+},
+{
+"id": "profile.street",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "街",
+"identifier": "20817feb-2ed6-4e7f-a3b8-03a0a209f4da"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_6f1bfed1-7991-47bc-99cd-e779686a0ee7.description",
+"lastModified": "2018-06-20T20:51:35+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "这是一个锻炼说明",
+"identifier": "2095d226-5d75-44c0-8450-f9fec97c51fd"
+},
+{
+"id": "exfilter.liked",
+"lastModified": "2018-12-16T04:07:52+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我的最爱",
+"identifier": "218d1cc8-13da-474f-8530-37dbff322399"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_622173b9-08c9-43a3-bc4d-4e6d95c6e06b.howToUseDescription",
+"lastModified": "2019-01-10T05:45:14+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module 3 CN",
+"identifier": "21c57e74-5a2c-415b-a680-31991e2bb58c"
+},
+{
+"id": "exmodule.unlocked",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "unlocked",
+"identifier": "225b129b-91c6-424d-8ca6-e3cd2e083c0a"
+},
+{
+"id": "excount.getready",
+"lastModified": "2018-12-16T04:08:44+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请做好准备 ...",
+"identifier": "22cc6ee1-1d7f-4c78-a88b-5f99ac09f89a"
+},
+{
+"id": "habitchall.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "帮帮我",
+"identifier": "23f9bdf2-6f2c-49ee-bea1-bf656577f3ab"
+},
+{
+"id": "exsingle.startbutton",
+"lastModified": "2018-12-16T04:09:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "开始训练！",
+"identifier": "242fdb5d-8d4b-4cb9-8a88-743628450736"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_da26e1c8-26e0-4db9-9d50-8a0f714a4c8a.name",
+"lastModified": "2018-10-21T09:00:33+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "chest",
+"identifier": "2455c29c-97b1-4e4f-9211-b3844d220db5"
+},
+{
+"id": "info.finishedhabit",
+"lastModified": "2018-11-22T06:19:03+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Finished a habit.",
+"identifier": "24a029e3-2d79-43dd-a8a2-51d2de86f234"
+},
+{
+"id": "faq.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "常见问题解答",
+"identifier": "24fe7ae4-c627-4005-a9df-8cb3f4d5b3f7"
+},
+{
+"id": "activationsuccess.tryforfree_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Activation",
+"identifier": "250b948b-9df2-4edc-8026-21d1007e113c"
+},
+{
+"id": "headsup.msg1",
+"lastModified": "2018-06-21T06:18:59+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "You did not achieve your minimum exercise goal and get minus {0} points.",
+"identifier": "2529fdf8-6fcc-4ae1-8223-b1847dc2685c"
+},
+{
+"id": "perf.week",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Weekly",
+"identifier": "2618e144-4a09-4bf5-85d0-a3b60240da0a"
+},
+{
+"id": "global.sets",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Sets",
+"identifier": "265b2e3c-f1e7-49ed-bad6-c086c3038d1c"
+},
+{
+"id": "global.minutes",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "minutes",
+"identifier": "2688b8ba-1676-4d9d-935a-4e04abd5362a"
+},
+{
+"id": "surprise.button",
+"lastModified": "2018-12-16T04:13:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "试试手气！",
+"identifier": "26b13f2a-b9fb-4144-b6e3-8528d8b0d0dd"
+},
+{
+"id": "dailylog.hours",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "小时",
+"identifier": "2706dc91-1fb0-4cb9-b167-cf5cf59de40f"
+},
+{
+"id": "habit.notfinishedselector",
+"lastModified": "2018-12-16T04:02:24+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "未完成",
+"identifier": "270b891f-511f-4b32-8730-473c68732268"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_46d7a931-8f6a-42be-b73a-8f2d6a50445d.excerpt",
+"lastModified": "2018-10-23T02:11:55+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Have to like the internet sometimes. I taped this off the radio back in the 80s. I had no idea what it was called. Was just now listening to some Khruangbin (\"new\" music to a 50-something) and youtube decided I might like this. Its taken 35 years to  find! Until now I could only describe it as \"A song that should have been on the Apocalypse Now soundtrack\"\ufeff",
+"identifier": "2740a912-e9d8-4155-81ca-e0637e0a2878"
+},
+{
+"id": "perf.monthmay",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "可能",
+"identifier": "276af188-4b41-4e89-8613-d3a898144ef3"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_c5575e9f-a22c-409e-98d4-3d8cfae950a8.excerpt",
+"lastModified": "2018-10-23T02:07:36+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "有时候不得不喜欢互联网。 我在80年代把收音机录下来。 我不知道它叫什么。 刚刚听了一些Khruangbin（“新的”音乐到50多岁），youtube决定我可能喜欢这个。 它花了35年才发现！ 到现在为止，我只能把它形容为“应该在现代启示录音乐中的一首歌”",
+"identifier": "27b2f920-ac6b-4215-ba63-ba080082adc7"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_1ad8de3b-fee1-4ae4-94b1-daabd93aae52.name",
+"lastModified": "2018-07-15T20:21:30+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise 4 module x ",
+"identifier": "27c32678-c6ac-4f35-9126-4e89992efd10"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_e9be9a7a-f692-474a-afd0-fb433f8d08f6.answer",
+"lastModified": "2018-09-08T05:29:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 如果您是WooCommerce的新手，並希望在啟動在線商店之前對其進行測試，您可以創建一個類似於上面鏈接的模擬商店。這是一個很好的方式來啟動輪胎並測試電子商務設置中的不同流程。",
+"identifier": "2894ca2c-56d4-491f-9cfb-08dd45af5ccd"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_42668236-e145-4b79-b376-cf1987f527cc.description",
+"lastModified": "2018-10-23T02:10:49+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "如果您是",
+"identifier": "28ba002f-7831-410d-9117-c83c8cc323f0"
+},
+{
+"id": "exfilter.onlyshowetag",
+"lastModified": "2019-01-24T07:03:26+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "标签过滤器",
+"identifier": "29170dc7-f582-407f-b21d-8bb4d777a52d"
+},
+{
+"id": "info.userblocked",
+"lastModified": "2018-12-10T06:10:33+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "该用户被屏蔽啦",
+"identifier": "292bd9a8-542d-45d9-b269-3e6bd1f9c815"
+},
+{
+"id": "perf.monthmar",
+"lastModified": "2018-12-16T04:13:32+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "三月",
+"identifier": "29c5613b-db22-4bcf-9152-618b81362b3c"
+},
+{
+"id": "info.removeimage",
+"lastModified": "2018-12-09T07:15:41+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "图片已被删除咯",
+"identifier": "29cb316a-6294-434e-9b6d-666270fb992d"
+},
+{
+"id": "perf.total",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "total",
+"identifier": "2a76b65a-bd7f-415d-a4ca-b022175ae5af"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_4d6061e9-ff0a-414e-9605-49a7843bcd13.howToUseDescription",
+"lastModified": "2018-12-19T08:27:29+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "CN how to use description of \"module free\"",
+"identifier": "2b254831-8995-4ae2-b7dc-a88212a870fe"
+},
+{
+"id": "perf.monthmar",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "March",
+"identifier": "2b555ca6-2baa-44b2-85df-2e30241f9e5e"
+},
+{
+"id": "exfilter.all",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "all",
+"identifier": "2b8131e8-542f-45de-95dc-2d1812666889"
+},
+{
+"id": "perf.activitylog_title",
+"lastModified": "2018-12-16T04:28:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "训练和习惯记录",
+"identifier": "2c910f03-363c-4374-80bc-eb4e5f8ad4af"
+},
+{
+"id": "hadetail.inprogress",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "进行中",
+"identifier": "2ce9e46c-3116-40af-aa8e-15358b98c74f"
+},
+{
+"id": "info.privacyadded",
+"lastModified": "2018-11-22T06:21:54+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Privacy successfully updated",
+"identifier": "2d40fda5-a27f-41d6-9464-a179ab62b2fc"
+},
+{
+"id": "perf.month",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Monthly",
+"identifier": "2da0e817-49b4-4483-8bab-ee2b84dfc1cd"
+},
+{
+"id": "dailylog.times",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "times",
+"identifier": "2db086d2-e2c1-4ee3-9bfe-a13297b8c5c7"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_a74682aa-9f37-4e0f-9143-7b487d90362c.name",
+"lastModified": "2018-07-15T20:17:58+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块 x",
+"identifier": "2dbdfa79-3416-4a9b-8f50-35c3d6b8ce9a"
+},
+{
+"id": "profile.remindpersonalgoals",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Remind me if I did not reach my personal goal",
+"identifier": "2dbe63f3-a161-4021-930d-b3ec2f70a2e4"
+},
+{
+"id": "account.blocked",
+"lastModified": "2019-01-07T04:55:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "您的账户被冷冻了，请与我联系哦。",
+"identifier": "2dc860eb-8b9c-4c77-95ef-36294e957b04"
+},
+{
+"id": "perf.daythu",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "星期四",
+"identifier": "2dd324de-7246-46cf-aa59-eed5af831351"
+},
+{
+"id": "headsup.msg2",
+"lastModified": "2018-06-21T06:18:59+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Yesterday you finished {0} exercises! You got {1} points.",
+"identifier": "2de3d18b-292d-4b99-bd47-f27dcdbcc086"
+},
+{
+"id": "info.addphotofrom",
+"lastModified": "2018-12-16T04:04:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "从图片库添加照片",
+"identifier": "2e1adce9-3dc3-4563-a6f3-2a29619f57b0"
+},
+{
+"id": "ex.exercisesunlocked",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "exercises unlocked",
+"identifier": "2e4585e2-25b5-421b-a234-60b5f5840a8a"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_c7bf5a95-aae3-4944-9b4f-52386e80d078.name",
+"lastModified": "2018-06-20T20:54:00+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise 1",
+"identifier": "2e4d1a6c-5f1f-4117-abda-7e073ca1a61a"
+},
+{
+"id": "ex.completed",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "completed",
+"identifier": "2eb31b3c-8064-4782-9170-7066679f27e6"
+},
+{
+"id": "community.button",
+"lastModified": "2018-12-17T10:34:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "好滴！",
+"identifier": "2edbb1c8-b26c-48a9-8ebb-2cb5ac98f504"
+},
+{
+"id": "ex.selectex_title",
+"lastModified": "2018-12-17T10:34:44+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "选择你的训练",
+"identifier": "2f0ab204-2207-4bc7-9804-c4aed306d1f6"
+},
+{
+"id": "habit.finishall_button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Finish all today's habits",
+"identifier": "2f79a225-7993-4546-9925-22cb7fcbb983"
+},
+{
+"id": "ex.activatenow",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Activate now",
+"identifier": "2fb96619-a7b9-45c5-b27d-1da2e831ca93"
+},
+{
+"id": "popup.successtext",
+"lastModified": "2018-10-23T03:17:51+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Image successfully uploaded.",
+"identifier": "3054be5e-9919-47c3-ba7a-d7f96c482158"
+},
+{
+"id": "habit.lockedexplanation",
+"lastModified": "2018-12-17T10:35:39+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "连续完成6天，才可以解锁这个习惯哦",
+"identifier": "3107b24a-cdd3-482d-abe4-afa6e6777b64"
+},
+{
+"id": "exfilter.onlyshowmodules",
+"lastModified": "2018-12-17T10:38:51+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "只显示选中课程的训练",
+"identifier": "31122610-5151-4b0d-bd5c-c39fd9ee6212"
+},
+{
+"id": "global.rateokay",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Okay",
+"identifier": "315474ba-3b5e-4c5b-b1d4-95f81519104f"
+},
+{
+"id": "user.faqs",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "常见问题解答",
+"identifier": "316be94b-6a69-467f-bacc-a9aca88e903a"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_024bbe52-96b2-43db-9d2e-a64db3e067f2.title",
+"lastModified": "2018-09-08T05:31:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "可以創建一個類似於上面鏈接的模擬商店?",
+"identifier": "3216fab1-e2d1-4473-b86e-e344b21fc49b"
+},
+{
+"id": "global.delete",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Delete",
+"identifier": "323a763d-f4d5-4762-a553-a4ea95a9443b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_72f89349-0044-405b-af2a-23404ac8352b.name",
+"lastModified": "2018-10-23T02:03:53+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit #1",
+"identifier": "329ac60b-7108-4a3e-8342-4e2a8e21e33d"
+},
+{
+"id": "habitchall.description",
+"lastModified": "2018-12-17T10:44:33+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "连续6天完成所有已解锁的习惯，在第7天时，你获得一天“欺骗日”作为奖励 （：",
+"identifier": "32fdb37a-65c2-418d-aff3-06807e54a8af"
+},
+{
+"id": "exfilter.liked",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "liked",
+"identifier": "331f3a5d-9be9-4520-af2d-4f861d61bbab"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_cc2cfa98-037a-4943-987f-d299fa5f64c2.howToUseDescription",
+"lastModified": "2019-01-13T05:37:54+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "把最后一组做完了 CN how to use",
+"identifier": "332e6797-9e62-451a-a537-e34e77cca0f7"
+},
+{
+"id": "info.selectrating",
+"lastModified": "2018-12-17T10:45:54+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "谈谈你的感受吧：",
+"identifier": "335b3515-250b-42d5-9704-c5ac0ce53277"
+},
+{
+"id": "user.minimumex",
+"lastModified": "2018-12-17T10:47:02+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每日最低训练目标",
+"identifier": "337fbfa2-a2d7-4a04-8135-cb2bae3a990b"
+},
+{
+"id": "ex.activatenow",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "现在激活",
+"identifier": "33e1af4c-27f8-49b4-a447-e2dd35ef3d9a"
+},
+{
+"id": "profile.remindhabits",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Remind me to complete my daily habits",
+"identifier": "3465b988-940d-4455-987b-df0b524f6ba6"
+},
+{
+"id": "activationsuccess.button",
+"lastModified": "2018-12-17T10:48:31+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "重新发送激活邮件",
+"identifier": "354fc1bb-f89d-480f-aa1e-1cd75deb31df"
+},
+{
+"id": "info.share",
+"lastModified": "2018-11-22T06:16:50+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分享",
+"identifier": "355b9778-cb04-456d-af5a-77c1485e36d2"
+},
+{
+"id": "habdis.title",
+"lastModified": "2018-12-17T10:50:57+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "禁用习惯（再次激活后，习惯记录将会被重置）",
+"identifier": "35ab1606-29d3-4653-b177-09e3d5f80ec3"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FocusArea_d338505f-00c6-452d-a434-4934b5373049.name",
+"lastModified": "2018-07-12T11:42:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "胸部",
+"identifier": "35d620a8-2f75-41ad-b5c7-b5b989ffb70a"
+},
+{
+"id": "regstep2.wechatname",
+"lastModified": "2018-12-17T10:51:11+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "微信号",
+"identifier": "360c5106-96c2-477c-b97d-30e5aab59613"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e549067c-04be-4f61-a304-8d303c817509.name",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "E New translated modules",
+"identifier": "362b782e-57ff-4708-8c68-a065a19e9af1"
+},
+{
+"id": "user.bookmarked",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "bookmarked exercises",
+"identifier": "363aa683-cd30-4332-a8a5-a9bbfd342103"
+},
+{
+"id": "excan.stop",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Stop it now",
+"identifier": "367f246a-0bda-4bfb-b198-955db5d0a1aa"
+},
+{
+"id": "habit.tracker_title",
+"lastModified": "2018-12-09T07:21:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每日成就记录",
+"identifier": "367fac12-bdb8-44af-8047-92be329514a8"
+},
+{
+"id": "info.nointernet",
+"lastModified": "2018-12-08T06:37:43+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "You are offline. Please reconnect.",
+"identifier": "36e65ce3-2450-4f8f-a930-94a1aaee9975"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_cc2cfa98-037a-4943-987f-d299fa5f64c2.description",
+"lastModified": "2018-07-12T10:19:02+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module 6 explanation Workout module 6 explanation Workout module 6 explanation Workout module 6 explanation Workout module 6 explanation ",
+"identifier": "370e5010-a56c-4f89-8dab-a4d968c37e17"
+},
+{
+"id": "perf.habit",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯",
+"identifier": "37d47781-ca85-499a-9692-96395ab883e2"
+},
+{
+"id": "profile.save_button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "保存更改",
+"identifier": "37ea4f2f-645a-49de-83c7-c641c3d52b6a"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_c5575e9f-a22c-409e-98d4-3d8cfae950a8.name",
+"lastModified": "2018-10-23T02:07:36+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit #2",
+"identifier": "3848dc71-8ed1-4a21-adbe-6af08cd38dfe"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_63ba066c-48b0-4a48-b565-b1ce93c30e44.name",
+"lastModified": "2018-07-15T20:29:37+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块2",
+"identifier": "384d065f-f057-48f4-993d-b2c95d908872"
+},
+{
+"id": "regstep2.wechatname",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "wechat name",
+"identifier": "3872096c-6268-4518-a47d-49aa3f353864"
+},
+{
+"id": "habit.finishedselector",
+"lastModified": "2018-12-17T11:18:19+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "今日已完成",
+"identifier": "3917bc58-d999-4b45-ae70-c94ea7cb048c"
+},
+{
+"id": "info.emailsent",
+"lastModified": "2018-11-22T05:24:04+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Email sent",
+"identifier": "394c145f-f6e5-42c6-847b-f258a6697ac4"
+},
+{
+"id": "profile.zip",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "ZIP",
+"identifier": "39b491ac-08d9-4ed2-9491-66f2983a6065"
+},
+{
+"id": "user.minimumex",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "minimum exercises",
+"identifier": "39c044dc-8d35-45ed-b5a7-85f5470e50d3"
+},
+{
+"id": "excan.titel",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Stop exercise",
+"identifier": "39eaf73d-6677-49c7-a2ef-d43d0f1f153d"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_ca85b41b-41ea-41ab-9d97-26e89c5d5e73.name",
+"lastModified": "2018-07-12T10:13:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块1",
+"identifier": "3a067484-e44b-438c-991c-b4bb85de852b"
+},
+{
+"id": "global.ratetoohard",
+"lastModified": "2018-12-21T06:22:42+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "完全做不了。",
+"identifier": "3a1d9526-f11c-48ac-906e-932923c03df6"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_cc2cfa98-037a-4943-987f-d299fa5f64c2.name",
+"lastModified": "2018-07-12T10:19:02+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout Module 6",
+"identifier": "3a20b041-4028-4d4c-ace0-a3cd200f93c5"
+},
+{
+"id": "perf.monthjul",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "七月",
+"identifier": "3a29b28b-d70c-4233-a8b0-e2a85b73dcfd"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FocusArea_215b314d-5a3f-426b-b945-d379196d8adc.name",
+"lastModified": "2018-07-12T11:41:18+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "臀部",
+"identifier": "3a385364-4b06-4c0a-ba79-405835ef2a6f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_6ef030d9-2bf9-4e70-a630-53dfe18d3677.description",
+"lastModified": "2018-07-15T20:32:16+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Do this shit!",
+"identifier": "3a658909-5ee3-406f-b012-ed3a482d9ce4"
+},
+{
+"id": "terms.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Term of service",
+"identifier": "3a8163d7-1bc1-49ed-b97a-f1ad8f129034"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_6f1bfed1-7991-47bc-99cd-e779686a0ee7.howToUseDescription",
+"lastModified": "2019-01-10T08:45:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "test cn",
+"identifier": "3aa72ca7-5ded-4966-9d92-f7b58abacbcd"
+},
+{
+"id": "info.error",
+"lastModified": "2018-11-22T05:23:19+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Error",
+"identifier": "3b2b32ee-47e9-4b2e-b573-7bcf03c52378"
+},
+{
+"id": "global.username",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "用户名",
+"identifier": "3b701175-711f-4d8e-92f0-cb9f475efa7f"
+},
+{
+"id": "dailylog.title",
+"lastModified": "2018-12-17T11:22:15+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "打卡记录",
+"identifier": "3c77f7cd-fdc5-47f3-a5c2-8a1a3d8c1b23"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_efe9595d-38b1-4d5d-a7c0-3f1ec5536565.excerpt",
+"lastModified": "2018-10-23T02:13:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "有时候不得不喜欢互联网。 我在80年代把收音机录下来。 我不知道它叫什么。 刚刚听了一些Khruangbin（“新的”音乐到50多岁），youtube决定我可能喜欢这个。 它花了35年才发现！ 到现在为止，我只能把它形容为“应该在现代启示录音乐中的一首歌”",
+"identifier": "3ccb6074-640f-4ef7-af59-dda2a2c0254e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_e6e50dec-69f4-4a41-9ec2-755520606d46.name",
+"lastModified": "2019-01-10T05:53:23+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutf3",
+"identifier": "3d14be57-1685-4531-8b8f-cba86e077f60"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_6f1bfed1-7991-47bc-99cd-e779686a0ee7.howToUseDescription",
+"lastModified": "2019-01-10T08:45:03+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "test en",
+"identifier": "3d82f5a2-cf4c-4b4c-9610-daf42557f9a4"
+},
+{
+"id": "habit.successivedays",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "successive days",
+"identifier": "3da29c23-2f81-4a6d-8765-2d50b9d7c0f3"
+},
+{
+"id": "dailylog.appusedtoday",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "app used today",
+"identifier": "3de19fbb-a59c-4725-ae2d-8a7512f0b691"
+},
+{
+"id": "perf.day",
+"lastModified": "2018-12-17T11:24:11+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每天",
+"identifier": "3e1b7982-46e4-4882-a5f0-7a882c079530"
+},
+{
+"id": "tryforfreepw.description_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Now set a password for your free account",
+"identifier": "3e639ba5-2e3e-4515-9f12-1a7b2a6d73e3"
+},
+{
+"id": "exfilter.onlyshowetag",
+"lastModified": "2019-01-24T07:03:26+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Only show tag",
+"identifier": "3ff929b8-9ba8-4d9a-b6f3-f5a586441b71"
+},
+{
+"id": "profimg.title",
+"lastModified": "2018-12-08T05:51:38+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "选择剪裁区域",
+"identifier": "3ffbd56d-bac2-4fe5-828a-9ed91bff01e8"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_6f1bfed1-7991-47bc-99cd-e779686a0ee7.description",
+"lastModified": "2018-06-20T20:51:35+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "This is a workout description",
+"identifier": "40da1847-cf2e-4a94-bf7d-e1761519b41b"
+},
+{
+"id": "info.emailexist",
+"lastModified": "2019-01-07T04:51:18+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Email already in use.",
+"identifier": "41d04e0e-4fe6-44bb-a019-5fd15d2e92fd"
+},
+{
+"id": "info.facebooknotavail",
+"lastModified": "2018-11-22T06:17:21+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Facebook service is not available",
+"identifier": "41f4324e-5637-4a96-9d57-a9ec235bb55b"
+},
+{
+"id": "onboard.text1",
+"lastModified": "2018-12-08T06:18:32+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Start your habit building today\r\nwith XS infinity.",
+"identifier": "423451c6-1e27-4af9-96a1-4364f37c215d"
+},
+{
+"id": "exfilter.activated",
+"lastModified": "2018-12-17T11:30:35+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已解锁的",
+"identifier": "4308b736-c715-4b2a-b42c-6ff3f068f15a"
+},
+{
+"id": "faq.topquestions",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Top questions",
+"identifier": "4319be84-aaa9-43ab-bede-a47ca291d581"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_72f89349-0044-405b-af2a-23404ac8352b.excerpt",
+"lastModified": "2018-10-23T01:52:55+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Have to like the internet sometimes. I taped this off the radio back in the 80s. I had no idea what it was called. Was just now listening to some Khruangbin (\"new\" music to a 50-something) and youtube decided I might like this. Its taken 35 years to  find! Until now I could only describe it as \"A song that should have been on the Apocalypse Now soundtrack\"\ufeff",
+"identifier": "4430f6f1-5d7f-4ace-96b2-8bf928455849"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_a2f76cd3-08be-440b-aeaf-cd851f1553ea.description",
+"lastModified": "2019-01-10T05:56:34+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutf3m",
+"identifier": "443a3015-243b-489e-bfb0-1e29e93380f0"
+},
+{
+"id": "popup.successtitle",
+"lastModified": "2018-10-23T03:16:26+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Success",
+"identifier": "4465fe3d-f7fd-4bb7-a65e-adf1eaf6f39d"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_667c3183-63db-4b13-966c-aba3066cc7fe.description",
+"lastModified": "2019-01-10T05:59:51+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfe2CN",
+"identifier": "456d93e2-f508-4085-bd66-8bc152c7ecc4"
+},
+{
+"id": "info.nomodulesbought",
+"lastModified": "2018-12-17T11:32:38+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "还没有购买任何课程哦",
+"identifier": "45c76622-98e5-4c43-a508-4692ca453103"
+},
+{
+"id": "imprint.text",
+"lastModified": "2018-11-16T09:02:01+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "简介：本期节目想要告诉你们关于我们更多的故事，新的一年你只需要负责努力，运气已经在前面安排好了。希望你最后不要用死而无憾来自圆其说。新年快乐！简介：本期节目想要告诉你们关于我们更多的故事，新的一年你只需要负责努力，运气已经在前面安排好了。希望你最后不要用死而无憾来自圆其说。新年快乐！\r\n\r\n简介：本期节目想要告诉你们关于我们更多的故事，新的一年你只需要负责努力，运气已经在前面安排好了。希望你最后不要用死而无憾来自圆其说。新年快乐！ 简介：本期节目想要告诉你们关于我们更多的故事，新的一年你只需要负责努力，运气已经在前面安排好了。希望你最后不要用死而无憾来自圆其说。新年快乐！",
+"identifier": "45edbb05-597f-4284-9a35-8ebb2d69b35f"
+},
+{
+"id": "activationsuccess.text",
+"lastModified": "2018-12-08T05:56:08+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "亲爱的{0}，你没有在过去的24小时内激活你的帐号，别忘了点击你所收到的电子邮件中的链接哦。",
+"identifier": "4619ba6a-76ee-4169-ac0b-1548cf3bd361"
+},
+{
+"id": "global.backbuttonnav",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "back button of the navigation bar",
+"identifier": "461e66e2-474b-464b-ab69-611d776399fc"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e118922f-3506-4f44-befb-2438b6b8868f.description",
+"lastModified": "2018-07-12T10:14:53+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "462cb775-fb06-4f97-892b-3bac8f9bd33f"
+},
+{
+"id": "ratepop.description",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Do you want to support us and rate XS Infinty\u2028on the App Store?",
+"identifier": "46357952-e55b-488a-b849-3620aab477fa"
+},
+{
+"id": "surprise.chosediff",
+"lastModified": "2018-12-18T03:11:44+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请选择难度",
+"identifier": "4749a4db-7dcb-4bb5-96f6-1bc2a29827a0"
+},
+{
+"id": "habdis.descr",
+"lastModified": "2018-12-18T03:14:08+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "如果禁用习惯，你之前所有的习惯记录都将会被重置；在次激活后，你需要从第一个习惯开始执行。",
+"identifier": "4789b68c-0e37-458b-b621-0f10bfe229ba"
+},
+{
+"id": "info.somethingwentwrong",
+"lastModified": "2018-11-23T10:11:51+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Something went wrong.",
+"identifier": "47d85766-1292-4b2a-8b64-24513dcd7002"
+},
+{
+"id": "extype.reps",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "repetitions",
+"identifier": "48235544-24ba-44ed-8475-a56fea2e931f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_d62e3766-36ab-4e67-ba71-f3843c40e92b.name",
+"lastModified": "2019-01-10T05:54:42+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutf1mcn",
+"identifier": "4852c16a-dc84-4bab-a1b8-63450db30154"
+},
+{
+"id": "habdis.continue",
+"lastModified": "2018-09-08T06:26:51+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Disable habits",
+"identifier": "487480b3-5d4a-4eb6-b8d0-0cf3434fb238"
+},
+{
+"id": "perf.monthjun",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "June",
+"identifier": "48ce0a57-8dbf-4c7b-80a6-e075c95b2109"
+},
+{
+"id": "onboard.button2",
+"lastModified": "2018-12-08T06:19:38+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Ok, understood.",
+"identifier": "48cfa059-2032-4618-ac96-acdda083f1b9"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_46d7a931-8f6a-42be-b73a-8f2d6a50445d.name",
+"lastModified": "2018-10-23T02:11:55+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯＃5",
+"identifier": "48d469b4-a6c8-476c-add7-ccbdd8d6b933"
+},
+{
+"id": "perf.monthsep",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "九月",
+"identifier": "491279c1-f541-4663-af25-7b6d7c7b86de"
+},
+{
+"id": "otheruser.gallery_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "画廊",
+"identifier": "496f24ea-1af5-4578-83b7-a479bd4469b4"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_d3e44442-74be-473c-9b5e-a94531454bd1.description",
+"lastModified": "2018-07-15T20:31:25+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "asdlnkf",
+"identifier": "49cb9693-54f4-4139-affa-1e491d1da4f6"
+},
+{
+"id": "exmodule.timesfinished",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "times finished",
+"identifier": "49de8268-14a3-4e80-8781-446c65ca1ec6"
+},
+{
+"id": "user.todaysperformance",
+"lastModified": "2018-12-18T03:21:15+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我今天的表现",
+"identifier": "49dea047-40b9-40c5-8c64-8ac2ce866f49"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_efe9595d-38b1-4d5d-a7c0-3f1ec5536565.description",
+"lastModified": "2018-10-23T02:13:16+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Cook a bit",
+"identifier": "49effe43-0936-4672-a457-40c057b95f32"
+},
+{
+"id": "global.email",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "电子邮件",
+"identifier": "4a403447-b206-4f20-b1b9-17c3c9edefa2"
+},
+{
+"id": "perf.monthnov",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "十一月",
+"identifier": "4a512985-bf43-477f-ab74-f2d511b8fcd6"
+},
+{
+"id": "profile.termslink",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "服务条款",
+"identifier": "4a79be05-0c55-4b11-bedc-892e515813fe"
+},
+{
+"id": "global.submitbutton",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "提交按钮",
+"identifier": "4a880656-6229-4e33-abf6-64cdd4da7949"
+},
+{
+"id": "forgotpw.password_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Password",
+"identifier": "4af001b1-c4b9-416d-9bc4-5f534dc31778"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_043890b8-57c8-4ef2-a30e-36981b633e1a.description",
+"lastModified": "2018-07-15T20:23:18+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "4b655c63-51e6-4ddf-9fbe-7c10c7b97225"
+},
+{
+"id": "surprise.exerciserated",
+"lastModified": "2018-12-18T03:24:58+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "只显示该标记的训练",
+"identifier": "4b71bade-300f-4df0-8a9e-cec48bc243e4"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_e71d3e53-a9df-4b1e-a495-ff9e8d6a621f.name",
+"lastModified": "2018-10-21T09:01:07+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "背部",
+"identifier": "4bd8c9af-7f89-42a4-8969-382f2efaa313"
+},
+{
+"id": "global.shareon",
+"lastModified": "2018-12-18T03:25:24+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分享至",
+"identifier": "4c7af5e5-f78b-4215-be37-7978d4012d93"
+},
+{
+"id": "info.somethingwentwrong",
+"lastModified": "2018-12-18T03:18:15+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "好像出了点小错误，请再重试一下咯。",
+"identifier": "4c7ed40e-7374-42f8-a1fc-0de90ea99eba"
+},
+{
+"id": "ex.dailyminimum",
+"lastModified": "2019-01-12T07:46:56+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每日训练目标",
+"identifier": "4c87ae38-d633-4ecb-8236-d64bdd466a21"
+},
+{
+"id": "profile.notifications_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Notifications",
+"identifier": "4c8bb3b6-003c-4103-bd6a-9afeac8cd01d"
+},
+{
+"id": "purchmodule.hard",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "hard",
+"identifier": "4d7335b4-1724-4721-8197-c565febf15b0"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_ead57e53-f072-4b95-9c42-bc2bcf226908.answer",
+"lastModified": "2018-09-08T05:31:50+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "If you're new to WooCommerce and want to test it out before launching an online store, you can create a demo store similar to the one linked above. It's a great way to kick the tires and test the different processes in your ecommerce setup.",
+"identifier": "4dc8ccd6-8b7c-4c64-bb3e-74339e55e3f4"
+},
+{
+"id": "excan.continue",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "I want to continue",
+"identifier": "4df49b32-732e-4758-9253-64fafb0be7de"
+},
+{
+"id": "purchmodule.totalof",
+"lastModified": "2018-12-18T03:31:08+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "总共",
+"identifier": "4f1ba08d-e14d-4014-bc44-a084ff471750"
+},
+{
+"id": "hadetail.inprogress",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "in progress",
+"identifier": "4f262d93-31dd-48dc-82d5-cd2928298a33"
+},
+{
+"id": "community.text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "The ranking is soley based on the exercise points. If you do not reach your daily exercise goal, you will get -1 point.",
+"identifier": "4f26785e-f042-4d74-b389-2c97be2c9d77"
+},
+{
+"id": "perf.daysat",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Saturday",
+"identifier": "4f42c33f-7cbd-42f2-a1b0-dffdfd222b3b"
+},
+{
+"id": "extype.set",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "组",
+"identifier": "4f5b84ab-05d1-4b65-9921-5f6ea4e0aad5"
+},
+{
+"id": "exfilter.onlyshowdiff",
+"lastModified": "2018-12-17T11:06:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "只显示该难度",
+"identifier": "4f8e0153-ac3c-4ac6-af0e-3c202f102999"
+},
+{
+"id": "surprise.chosefocusarea",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Chose the focus area",
+"identifier": "4fbd037b-0dba-436f-b12f-5864962e1382"
+},
+{
+"id": "push.notification.dailyHabitsNotFinished",
+"lastModified": "2018-12-09T07:18:21+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "哎呦，你还没有完成今天的习惯哦",
+"identifier": "4fe7f2f4-ccd5-497f-bee2-e9afd0402646"
+},
+{
+"id": "info.emailsent",
+"lastModified": "2018-11-22T05:24:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "邮件已发送",
+"identifier": "50227ceb-f488-4608-95d9-29307b942f02"
+},
+{
+"id": "user.faqs",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "FAQs",
+"identifier": "50834bcf-b09c-48a0-8a2e-1fdc1a18fd73"
+},
+{
+"id": "purchase.modulesbought",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Modules bought",
+"identifier": "50ed5fcb-b079-400d-bbcf-d317a2f4abfb"
+},
+{
+"id": "perf.communitycompetition_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Community competition",
+"identifier": "511c5c77-c011-47a6-ad94-b0723f1cda4c"
+},
+{
+"id": "global.submitbutton",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "submit button",
+"identifier": "51848b99-8f82-4248-a1f7-5e95b08fb7ea"
+},
+{
+"id": "exfilter.onlyshowkind",
+"lastModified": "2018-06-21T06:19:00+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Only show kind",
+"identifier": "5202b5dc-afbc-4ce0-a6ad-f7371791ced6"
+},
+{
+"id": "profile.faqlink",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "FAQ",
+"identifier": "5271698e-9eea-4a2e-a4ed-cd6d9ec77a8c"
+},
+{
+"id": "habit.cyclescompleted",
+"lastModified": "2018-12-19T10:21:35+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已成功培养的习惯：",
+"identifier": "5275a20b-5a78-4fa4-ad62-35433005e4cd"
+},
+{
+"id": "exfilter.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Filter",
+"identifier": "5378281b-8320-4946-a560-28d7e3b5ad5e"
+},
+{
+"id": "perf.ex",
+"lastModified": "2018-12-18T03:40:21+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "训练",
+"identifier": "53ede3e2-4341-44a3-bb28-c08dd7acb140"
+},
+{
+"id": "habactive.button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "现在激活",
+"identifier": "549e78b3-b0c6-44b8-b39e-dc04f345218d"
+},
+{
+"id": "info.nohabitperiodexist",
+"lastModified": "2018-12-18T03:41:25+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你目前还没有完成任何习惯任务。",
+"identifier": "5554ba61-febf-4136-97a7-3780a3db0c2f"
+},
+{
+"id": "upload.imgtitle",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "上传图片",
+"identifier": "556fe59d-663b-45e9-bb4e-f2622227a528"
+},
+{
+"id": "perf.daymon",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Monday",
+"identifier": "558a7eaf-6e06-4a82-a605-0c562997f5cb"
+},
+{
+"id": "profile.dailyheadsup",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Disable heads-up permanently",
+"identifier": "559068ef-9806-48c8-b44f-a1ac509136e9"
+},
+{
+"id": "dailylog.hours",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "hours",
+"identifier": "5593da2d-a057-4a82-a974-35f742c7895e"
+},
+{
+"id": "habactive.headline",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Start habits challenge",
+"identifier": "559f68f4-d1ba-4add-ae37-54f71b7b22de"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fe0fc777-b247-49c4-8795-8082a7447a36.description",
+"lastModified": "2019-01-10T05:57:34+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfh1",
+"identifier": "5637bf7d-be1e-434b-800c-46ba4d025f07"
+},
+{
+"id": "perf.showme",
+"lastModified": "2018-12-10T06:14:14+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "显示所有训练",
+"identifier": "56464cf0-be43-48b1-86af-5df551e29c84"
+},
+{
+"id": "exfilter.onlyshowkind",
+"lastModified": "2018-12-18T03:37:32+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "只显示此类",
+"identifier": "5653f665-324a-4bc6-97f6-a847e657cfb1"
+},
+{
+"id": "perf.total",
+"lastModified": "2018-12-16T04:14:26+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "总共",
+"identifier": "566ec91d-3436-4db7-a571-b0ef09eba905"
+},
+{
+"id": "popup.successtitle",
+"lastModified": "2018-12-17T11:31:57+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "成功啦！",
+"identifier": "56a979c4-1705-4eb0-afec-572943cd7545"
+},
+{
+"id": "ex.selectex_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Select exercise",
+"identifier": "56eed59b-6e4d-4c8b-ac64-2f20558be8c5"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_d62e3766-36ab-4e67-ba71-f3843c40e92b.description",
+"lastModified": "2019-01-10T05:54:42+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutf1mcn",
+"identifier": "577327e3-0c76-4ca6-8f81-d575526812c1"
+},
+{
+"id": "global.exercise",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise",
+"identifier": "57b731dc-ab27-4a66-b20c-48878eea8728"
+},
+{
+"id": "global.signintitle",
+"lastModified": "2018-12-18T03:44:40+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "登录",
+"identifier": "58084097-aceb-4c00-8716-b47d9ef91cd5"
+},
+{
+"id": "headsup.of",
+"lastModified": "2018-12-18T03:45:18+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "/",
+"identifier": "5837af96-f3aa-4074-9cb6-6b5160616fc3"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_8db9bede-1e90-4922-a54b-75019e62a338.answer",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "asdffsds",
+"identifier": "58592611-57f5-43cd-9dc6-93dbcaa18d2e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_3454d53f-d941-4335-8026-c15b9c1f0a20.title",
+"lastModified": "2018-09-08T05:34:07+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "What is my fathers virgin name?",
+"identifier": "586b15e6-b7e9-40f8-9fe7-b929d0e0aa3a"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_b66b64a0-130d-41b2-9824-434862120045.howToUseDescription",
+"lastModified": "2019-01-10T08:46:04+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "test cn",
+"identifier": "58b39dd8-eea7-47a0-a9f2-9ad28fc53283"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_4379d2c6-ae6e-480d-8d31-06297e292e5c.description",
+"lastModified": "2019-01-10T05:58:19+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfh3CN",
+"identifier": "58e0cd4f-9fc5-4f0d-8860-d3cd297b8e3e"
+},
+{
+"id": "perf.exercisepointsondate",
+"lastModified": "2018-12-18T03:54:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "训练得分",
+"identifier": "5968c424-8ee9-49ee-809a-45fa4d9b97c6"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_e6e50dec-69f4-4a41-9ec2-755520606d46.description",
+"lastModified": "2019-01-10T05:53:23+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutf3",
+"identifier": "59ca1ded-1d9a-46f2-adfc-8d140a6325f9"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_4d6061e9-ff0a-414e-9605-49a7843bcd13.description",
+"lastModified": "2018-09-06T03:52:47+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "This is the free module",
+"identifier": "5a1066a9-0d63-4a97-9862-a9ee029a24b8"
+},
+{
+"id": "surprise.getasurprise_title",
+"lastModified": "2018-12-18T03:54:47+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "惊喜训练",
+"identifier": "5a573e3a-0c90-47e8-94f6-1ed3035cd601"
+},
+{
+"id": "info.deleteimage",
+"lastModified": "2018-11-22T06:23:06+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你确定要删除这张图片吗？",
+"identifier": "5a5ba8a0-7507-45fc-8587-9ed965e8c1ef"
+},
+{
+"id": "info.profileimagenew",
+"lastModified": "2018-11-22T06:23:59+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "New profile image uploaded",
+"identifier": "5ab2eac5-1ad6-4341-bd8c-e201fc463fe9"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_42668236-e145-4b79-b376-cf1987f527cc.name",
+"lastModified": "2018-10-23T02:10:49+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯＃4",
+"identifier": "5ac33fc9-04aa-4a8d-98f1-bb26c73e08d8"
+},
+{
+"id": "headsup.description",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Check if you reached your daily achievements",
+"identifier": "5add2289-21b3-45ae-9420-d78d84636790"
+},
+{
+"id": "headsup.msg5",
+"lastModified": "2018-06-21T06:18:59+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Yesterday you opened the app {0} times: You got {0} points.",
+"identifier": "5aef7f0c-d91a-40e2-87cd-2b917c2a37da"
+},
+{
+"id": "upload.dateofpic",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "图片日期",
+"identifier": "5b0539f7-de4a-4f99-9a75-131d95fba57c"
+},
+{
+"id": "regstep2.male",
+"lastModified": "2018-12-18T03:57:48+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "男神",
+"identifier": "5b320807-2b61-465c-98d6-ccba74ac2046"
+},
+{
+"id": "ratepop.remindlater",
+"lastModified": "2018-12-18T04:03:01+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请稍后提醒我哦",
+"identifier": "5c7ce56c-cd67-4d1a-a534-a2e10564e96a"
+},
+{
+"id": "surprise.chosefocusarea",
+"lastModified": "2018-12-18T03:34:56+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "筛选针对性的训练",
+"identifier": "5c9f3493-08e8-4e73-87d9-b21c81788717"
+},
+{
+"id": "info.usernameexist",
+"lastModified": "2018-12-18T04:03:27+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "用户名已存在啦，换一个吧",
+"identifier": "5cc72030-15c3-43e6-8216-f1c4e79c719a"
+},
+{
+"id": "ratepop.remindlater",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Remind me later",
+"identifier": "5d7bf8b6-c90b-4811-a29d-4a909a975faf"
+},
+{
+"id": "account.blocked",
+"lastModified": "2019-01-07T04:55:30+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Account is blocked, please get in touch.",
+"identifier": "5d7c0c49-a896-4896-a4c4-6d51d054ecea"
+},
+{
+"id": "global.delete",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "删除",
+"identifier": "5d89cfb8-08e2-492a-86e6-58fea9516fcf"
+},
+{
+"id": "global.points",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Points",
+"identifier": "5dd0ab66-8150-47bb-8dbf-b3c1eed7f63d"
+},
+{
+"id": "exmodule.timesfinished",
+"lastModified": "2018-12-18T03:20:50+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已训练次数",
+"identifier": "5dd3c43e-8bd8-4d38-9aa6-6b0f68c9f49f"
+},
+{
+"id": "hadetail.linktext",
+"lastModified": "2018-12-18T04:09:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "操作方法和原理知识",
+"identifier": "5dd479de-2861-43dd-9c33-56eee37fd6b2"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FocusArea_c48c1fad-8ad1-4dfd-b087-2ebfbad8cd78.name",
+"lastModified": "2018-07-12T11:42:01+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "back",
+"identifier": "5debcd9d-b557-4511-a29d-1d3c1b235a10"
+},
+{
+"id": "global.signintitle",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Sign in",
+"identifier": "5e05f84f-b5bc-4db5-93e6-aabda87fe1de"
+},
+{
+"id": "exfilter.onlyshowmodules",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Only show modules",
+"identifier": "5e2d5357-006f-40d1-b30a-78fccd30c2f4"
+},
+{
+"id": "excan.descr",
+"lastModified": "2018-12-17T11:10:38+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "想偷懒放弃锻炼？那本次训练不会被记录哦",
+"identifier": "5e7bd202-b8c6-478e-a398-084738adc39b"
+},
+{
+"id": "exlist.searchbar_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "按名称搜索",
+"identifier": "5e8f3946-3b7c-4bff-8a7f-af4e0b40d680"
+},
+{
+"id": "profile.setpersonalgoal",
+"lastModified": "2018-12-18T04:10:10+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每日最低训练目标",
+"identifier": "5fa8d62d-fa1c-45e4-9c97-ff57760d28c1"
+},
+{
+"id": "perf.daytue",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Tuesday",
+"identifier": "5fa9f55d-ff1f-4ee5-b058-2009ac91da80"
+},
+{
+"id": "habit.finishedselector",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "completed",
+"identifier": "5fdbded5-71fd-4c21-991e-425eaff2419c"
+},
+{
+"id": "perf.lastweek",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "last week",
+"identifier": "60a0d089-62d8-4368-8c16-53179dedbdc4"
+},
+{
+"id": "community.title",
+"lastModified": "2018-12-20T09:00:38+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "小圈子排名",
+"identifier": "60d9d1d6-2a95-43ba-8a98-bbd2ceda4832"
+},
+{
+"id": "purchmodule.medium",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "medium",
+"identifier": "6171d982-7c1f-473d-9b46-3d7ed9b6c5ad"
+},
+{
+"id": "onboard.text4",
+"lastModified": "2018-12-21T06:02:39+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯 = 每日的重复，每天积攒你的习惯和训练分值，慢慢为自己培养习惯吧！",
+"identifier": "61ce295e-67e2-4f07-af19-8e1c1f692a2e"
+},
+{
+"id": "global.points",
+"lastModified": "2018-12-18T04:04:04+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分",
+"identifier": "61ff2a12-84f8-41d2-8ea5-b54d268d9c6a"
+},
+{
+"id": "perf.ex",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercises",
+"identifier": "6293fc58-36bc-42da-ab1d-ad7cad224387"
+},
+{
+"id": "dailylog.habitscompleted",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "habits completed",
+"identifier": "634d2a50-82c5-423d-a62c-0df4380642b6"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_083c0193-9acc-4032-a0e4-d4a64f9de9c9.name",
+"lastModified": "2018-10-21T08:58:46+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Legs",
+"identifier": "6393b449-daea-4d3c-8a25-10cbac440cb9"
+},
+{
+"id": "info.retry",
+"lastModified": "2018-12-08T06:38:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "重试",
+"identifier": "640d6f15-edd0-4e2a-bec4-d9e1074d1752"
+},
+{
+"id": "info.profileimagenew",
+"lastModified": "2018-12-18T03:55:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "新的头像已成功上传",
+"identifier": "645a6289-52c5-4351-927e-8411a702119e"
+},
+{
+"id": "global.difficultymedium",
+"lastModified": "2018-12-18T04:20:08+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "进阶",
+"identifier": "64745205-4676-4768-92fb-f1c8ba80cc26"
+},
+{
+"id": "hadetail.points",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "points",
+"identifier": "64afdd2f-ef3c-4ad9-a034-49d06ce7b35e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_e6e50dec-69f4-4a41-9ec2-755520606d46.description",
+"lastModified": "2019-01-10T05:53:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutf3cn",
+"identifier": "653c500f-7e87-4e27-97f8-1fe8ecf009f3"
+},
+{
+"id": "perf.monthnov",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "November",
+"identifier": "65659365-cc1b-4e99-a4e8-527d5b81fca7"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_efe9595d-38b1-4d5d-a7c0-3f1ec5536565.name",
+"lastModified": "2018-10-23T02:13:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯＃6",
+"identifier": "6626bdc3-024a-46aa-b86d-ae649a003450"
+},
+{
+"id": "headsup.msg1",
+"lastModified": "2018-12-16T04:26:26+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "由于没有完成今天的最低训练目标，所以被挥泪减去{0}分。",
+"identifier": "66309144-8815-4ea3-bc99-3e29bcb18cdd"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_72c4e3b9-7438-4c24-8509-a1fce5e4ff54.title",
+"lastModified": "2018-09-08T05:34:44+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 如果您是WooCommerce的新手?",
+"identifier": "66cf81a6-4c65-4b1a-87fe-30d6b2e0dc91"
+},
+{
+"id": "ratepop.yesanswer",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Yes",
+"identifier": "6724dcff-59fd-42d7-8a9d-b3947a89642c"
+},
+{
+"id": "global.exercisepoints",
+"lastModified": "2018-12-18T04:22:54+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "训练得分",
+"identifier": "681990bf-ba02-4210-bdac-fe4b3d8d30b6"
+},
+{
+"id": "info.twitternotavail",
+"lastModified": "2018-12-18T04:23:26+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "Twitter好像用不了哦",
+"identifier": "681b2863-1b2c-4530-b5ce-602e754c3c3f"
+},
+{
+"id": "purchmodule.easy",
+"lastModified": "2018-12-19T10:15:31+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "新手",
+"identifier": "689e4f93-9e6b-47b5-a452-54c66486e7bb"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_e9be9a7a-f692-474a-afd0-fb433f8d08f6.title",
+"lastModified": "2018-09-08T05:29:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 我在哪裡可以下載該應用程序？",
+"identifier": "691223c1-cbc8-4ada-853a-9b16ada0ec83"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_c7bf5a95-aae3-4944-9b4f-52386e80d078.description",
+"lastModified": "2018-06-20T20:54:00+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "这是一个练习",
+"identifier": "692e48f2-1278-4765-8767-5800d38d6dd3"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_249f814b-a504-45b6-af20-a58f476194c2.excerpt",
+"lastModified": "2018-10-23T02:09:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "如果您是WooCommerce的新手，并希望在启动在线商店之前对其进行测试，您可以创建一个类似于上面链接的模拟商店。 这是一个很好的方式来启动轮胎并测试电子商务设置中的不同流程。",
+"identifier": "69344621-3848-49a2-9909-06442fc0df54"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_622173b9-08c9-43a3-bc4d-4e6d95c6e06b.howToUseDescription",
+"lastModified": "2019-01-10T05:49:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "最后一组",
+"identifier": "695a7c97-05f7-4866-9d28-edc8fb95fb44"
+},
+{
+"id": "purchmodule.hard",
+"lastModified": "2018-12-21T06:12:55+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "高手",
+"identifier": "6996fbb4-141a-4cd9-964d-7fcead2f6e63"
+},
+{
+"id": "surprise.exerciserated",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Show only exercises I rated as",
+"identifier": "69d74dfa-6cae-44bc-8935-2d596f010062"
+},
+{
+"id": "perf.monthaug",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "August",
+"identifier": "69e158f8-9d9e-4767-87a5-b6a2d2544c9c"
+},
+{
+"id": "exfilter.onlyshowexercise",
+"lastModified": "2018-12-19T10:17:21+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "显示训练类型",
+"identifier": "6ae25099-6f33-4fc6-8dc2-ed796e84ef9a"
+},
+{
+"id": "community.popuptitle",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "排名信息",
+"identifier": "6b0daefa-b17a-4423-816d-1dfdf753a4b6"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_112e75cd-bdd6-445e-af3b-096c202bc926.answer",
+"lastModified": "2018-09-08T05:32:33+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "If you're new to WooCommerce and want to test it out before launching an online store, you can create a demo store similar to the one linked above. It's a great way to kick the tires and test the different processes in your ecommerce setup.",
+"identifier": "6b37b934-62e4-404d-8a4e-9e2167bf0971"
+},
+{
+"id": "global.savebutton",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "保存",
+"identifier": "6b78fc9c-e0a6-43d9-a0c1-b9869fee9939"
+},
+{
+"id": "purchmodule.popupbutton",
+"lastModified": "2018-12-19T11:07:24+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "好嘞",
+"identifier": "6bf01221-0a3a-4760-82fc-4639c3fc2543"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_7c72cb64-f0ea-4718-9cdc-2af2cc7a0921.description",
+"lastModified": "2018-07-15T20:18:55+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module x exercise 1 Workout module x exercise 1 Workout module x exercise 1 Workout module x exercise 1 ",
+"identifier": "6c113528-84e7-4bf6-a9c6-ca3b217b714f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_667c3183-63db-4b13-966c-aba3066cc7fe.description",
+"lastModified": "2019-01-10T05:59:51+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfe2",
+"identifier": "6cad05f6-e04c-49d1-a739-a716e976734b"
+},
+{
+"id": "regstep2.firstlastname",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "first and last name",
+"identifier": "6cc26dba-2721-48db-84bf-7a671cfa5865"
+},
+{
+"id": "profile.dailyheadsup",
+"lastModified": "2018-12-18T03:42:32+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "永久禁用提醒功能。",
+"identifier": "6cfa5e5e-d446-423a-aac2-68fde7f48516"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_63ba066c-48b0-4a48-b565-b1ce93c30e44.name",
+"lastModified": "2018-07-15T20:29:37+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Glutes",
+"identifier": "6d27516e-78f8-43d8-96ba-df19a96e32dc"
+},
+{
+"id": "profile.buttondelete",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "删除我的帐户和所有个人数据",
+"identifier": "6d2d6abb-43d3-4d7f-8147-0cbdec3d89b0"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_e06d8952-7d93-4c17-a54b-276bd01c210a.description",
+"lastModified": "2018-07-15T20:22:37+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise Repetition Exercise Repetition Exercise Repetition Exercise Repetition Exercise Repetition Exercise Repetition Exercise Repetition ",
+"identifier": "6d79aecf-5a8f-4831-87a7-578e0420bf94"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_72f89349-0044-405b-af2a-23404ac8352b.description",
+"lastModified": "2018-10-23T01:52:55+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "喝",
+"identifier": "6d93427b-fe4b-45c6-aca1-976e6713cddc"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fe19d050-957f-40e3-847d-5c9f2bd95617.name",
+"lastModified": "2018-07-15T20:31:06+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "neuer Test",
+"identifier": "6db2fdce-867d-4ec1-9221-509b8ea0eaca"
+},
+{
+"id": "habactive.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habits",
+"identifier": "6db33a7a-dbc2-4937-b4fc-abd2aae1d140"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_4379d2c6-ae6e-480d-8d31-06297e292e5c.description",
+"lastModified": "2019-01-10T05:58:19+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfh3",
+"identifier": "6e07f68e-73c2-4d35-9a10-5353fe821888"
+},
+{
+"id": "info.usernotexist",
+"lastModified": "2018-11-22T06:12:48+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "用户不存在",
+"identifier": "6e2a93b3-98b8-4e50-a6cc-a76a77a56bd2"
+},
+{
+"id": "onboard.text1",
+"lastModified": "2018-12-17T11:30:13+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "好身材 = 好习惯 = XS infinity\r\n",
+"identifier": "6e476f81-f180-4f0a-bd9d-36b807c98a17"
+},
+{
+"id": "habactive.button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Activate now",
+"identifier": "6e4cb256-6e93-4a68-a27c-deb44b74e6f6"
+},
+{
+"id": "onboard.button3",
+"lastModified": "2018-12-19T11:09:52+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "太好了，然后呢？",
+"identifier": "6e8b0eee-2ff1-4653-8389-f937d4e33fa1"
+},
+{
+"id": "info.nointernet",
+"lastModified": "2018-12-17T11:16:53+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你来到了网络荒原，请重新连网吧。",
+"identifier": "6e9c11ba-c9d6-4c1b-aaaa-45e67e7768d0"
+},
+{
+"id": "regfinal.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Profile complete!",
+"identifier": "6ec29509-4cd2-4c4c-bef7-3f944ed6070c"
+},
+{
+"id": "dailylog.totalusage",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "total usage time",
+"identifier": "6ef0b100-b0b8-4728-bf0a-13e572d27a39"
+},
+{
+"id": "profile.setpersonalgoal",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Personal exercise goal per day",
+"identifier": "6f28a1fa-7cad-4fd0-8d6a-2bbc3a6c985a"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_e71d3e53-a9df-4b1e-a495-ff9e8d6a621f.name",
+"lastModified": "2018-10-21T09:01:07+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "back",
+"identifier": "6f43c135-7208-457e-a258-481eab3af7da"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_024bbe52-96b2-43db-9d2e-a64db3e067f2.title",
+"lastModified": "2018-09-08T05:31:03+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Where can I activate my habits in the app?",
+"identifier": "6f9253df-6c25-4eb6-9f56-25c9096fdafd"
+},
+{
+"id": "popup.successtext",
+"lastModified": "2018-10-23T03:18:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "图片已成功上传。",
+"identifier": "6fa11806-5ab5-416a-a3ef-90514f50c795"
+},
+{
+"id": "purchase.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Purchase history",
+"identifier": "6fb4ee7a-7004-42ba-af3e-2a7e4a1e0b23"
+},
+{
+"id": "ex.suprise_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Surprise workout",
+"identifier": "6fd4906b-e02e-494d-9269-19b36a08e13a"
+},
+{
+"id": "newpassword.description_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请输入您的新密码",
+"identifier": "703e7043-0bd8-4fc0-a2cf-25574bdd253f"
+},
+{
+"id": "dailylog.times",
+"lastModified": "2018-12-17T11:05:36+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "次",
+"identifier": "70b85bca-bf2a-49d1-9a09-7531d02ca52a"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_d62e3766-36ab-4e67-ba71-f3843c40e92b.name",
+"lastModified": "2019-01-10T05:54:42+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutf1m",
+"identifier": "70b96672-6ef2-4fb7-a551-d0d8d08d2f1a"
+},
+{
+"id": "perf.daytue",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "星期二",
+"identifier": "710832dc-e1cf-4c1c-9d12-98329c110807"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FaqCategory_575cee7a-f190-4fd8-b258-847bee8afe21.title",
+"lastModified": "2018-09-08T05:25:36+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habits",
+"identifier": "7185c7e8-bb6f-478e-a5d9-823cca1a5f21"
+},
+{
+"id": "push.notification.dailyPersonalExerciseGoalNotReached",
+"lastModified": "2018-12-16T04:07:01+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "虽然还没完成今天的训练目标，但是训练永远为时不晚，现在就开始吧！ :D",
+"identifier": "727a49f9-f531-43a2-85f7-222e4b7ddcba"
+},
+{
+"id": "exfilter.onlyshowexercise",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Only show exercises",
+"identifier": "72922e1f-ffa9-49c2-a907-b714a58e2559"
+},
+{
+"id": "info.camera",
+"lastModified": "2018-11-22T06:09:27+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Camera",
+"identifier": "72f3e944-2077-4b40-b956-8ad6f846a446"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e549067c-04be-4f61-a304-8d303c817509.description",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "E new translated descr",
+"identifier": "738e53b2-e82c-4b95-86ae-791f3a519f72"
+},
+{
+"id": "info.someinputdatamissing",
+"lastModified": "2018-12-19T11:13:33+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "一些输入的数据好像遗失了。",
+"identifier": "74232d4a-8e33-43be-a59b-018fbf9d78f2"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_9c80f000-d182-4bca-8f81-d30f41b8b942.description",
+"lastModified": "2019-01-10T06:00:19+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfe1CN",
+"identifier": "74344d1f-a4cb-4c50-af6a-441f8b732b62"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_42668236-e145-4b79-b376-cf1987f527cc.excerpt",
+"lastModified": "2018-10-23T02:10:49+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Have to like the internet sometimes. I taped this off the radio back in the 80s. I had no idea what it was called. Was just now listening to some Khruangbin (\"new\" music to a 50-something) and youtube decided I might like this. Its taken 35 years to  find! Until now I could only describe it as \"A song that should have been on the Apocalypse Now soundtrack\"\ufeff",
+"identifier": "74f0e0e9-3587-457c-a052-6358b1c39a78"
+},
+{
+"id": "profile.save_button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Save changes",
+"identifier": "7593aab7-8d0c-4177-a9a1-7306afe3d532"
+},
+{
+"id": "surprise.getasurprise_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Surprise workout",
+"identifier": "75f791d9-b3ae-46fb-9cfc-33e09fd0aa25"
+},
+{
+"id": "otheruser.gallery_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Gallery",
+"identifier": "763791f5-607a-401f-a39c-7f15cf016ef4"
+},
+{
+"id": "perf.month",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每月一次",
+"identifier": "763e67ad-dc32-419a-b00b-0fdf6accb698"
+},
+{
+"id": "global.shareon",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Share on",
+"identifier": "767795e5-091d-4e21-a230-0576ff8075ba"
+},
+{
+"id": "habactive.headline",
+"lastModified": "2018-12-18T03:43:15+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "开始习惯培养挑战！",
+"identifier": "768bfe86-fa31-4bc9-8949-52305641f0d2"
+},
+{
+"id": "perf.exercisepointsondate",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "exercise points on",
+"identifier": "76ef16be-18ba-4086-ae29-b5c053850647"
+},
+{
+"id": "info.finishpreviousexercise",
+"lastModified": "2018-12-20T00:17:15+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "要先做完之前的训练才能继续哦。",
+"identifier": "7707e612-1bd8-4196-8e3a-2c40b60ba07c"
+},
+{
+"id": "perf.viewof",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "in the view of",
+"identifier": "77438bb2-a951-46b2-a36e-650c6c7567a5"
+},
+{
+"id": "tryforfree.description_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Tell us your name and email so we can create a user account for you.",
+"identifier": "7783a573-d3cb-481f-b904-4be5415bae28"
+},
+{
+"id": "info.twitternotavail",
+"lastModified": "2018-11-22T06:18:01+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Twitter service is not available",
+"identifier": "778e4a98-0b4f-476a-a574-edcc40aee5f6"
+},
+{
+"id": "upload.croptitle",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Select crop area",
+"identifier": "784eb973-7df9-44c5-b1fe-84db14a354d7"
+},
+{
+"id": "regstep1a.description",
+"lastModified": "2018-12-10T06:15:34+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "上传你的头像，",
+"identifier": "78d140ac-ac95-48fc-a68c-8a2b396bb24b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_99bc9c2c-8688-462b-b5c4-b4650f887812.excerpt",
+"lastModified": "2018-10-23T02:14:22+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Have to like the internet sometimes. I taped this off the radio back in the 80s. I had no idea what it was called. Was just now listening to some Khruangbin (\"new\" music to a 50-something) and youtube decided I might like this. Its taken 35 years to  find! Until now I could only describe it as \"A song that should have been on the Apocalypse Now soundtrack\"\ufeff",
+"identifier": "78e21442-b234-4670-b60b-a8132d71c3e0"
+},
+{
+"id": "ratesmiley.button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Finish exercise",
+"identifier": "79037c4e-878a-4421-b578-8b8c2aa4988b"
+},
+{
+"id": "community.popuptitle",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Ranking Info",
+"identifier": "794d27ff-5987-4a11-ace9-689603c66201"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_6f1bfed1-7991-47bc-99cd-e779686a0ee7.name",
+"lastModified": "2018-06-20T20:51:35+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼",
+"identifier": "7af8df47-07c3-4eff-a524-4fc82ac1385d"
+},
+{
+"id": "info.finishpreviousexercise",
+"lastModified": "2018-11-22T06:13:51+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "You must first finish the previous exercise.",
+"identifier": "7b14ff94-ff42-4eac-ab84-0f8f873c9382"
+},
+{
+"id": "purchmodule.easy",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "easy",
+"identifier": "7b191edb-d253-4c87-ac82-4cd1cfcb711d"
+},
+{
+"id": "regstep2.female",
+"lastModified": "2018-12-20T00:19:43+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "女神",
+"identifier": "7b32f7ed-a5b5-48b0-9c8b-ee114cf5b7ab"
+},
+{
+"id": "dailylog.habitscompleted",
+"lastModified": "2018-12-18T04:19:36+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯已完成！",
+"identifier": "7b428886-8bca-44d5-96e0-2ad210afb8a0"
+},
+{
+"id": "ratepop.description",
+"lastModified": "2018-12-18T03:07:38+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "比起昨天，你进步了吗？分享你的成就吧！",
+"identifier": "7b483316-77b7-466e-8e3a-0189d8f4d41d"
+},
+{
+"id": "exfilter.nevertried",
+"lastModified": "2018-12-20T00:21:40+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "还没练过的",
+"identifier": "7b72c4fe-264a-405a-94c5-2d5b716214ed"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_6a642b6b-b876-472b-b1b3-f72988b95222.name",
+"lastModified": "2018-07-15T20:20:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块2",
+"identifier": "7b7b6fa7-9f93-40c3-8eb4-b1504c08cf2b"
+},
+{
+"id": "info.nomodulesbought",
+"lastModified": "2018-11-22T06:26:23+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "No modules bought yet",
+"identifier": "7be25c37-874d-49fa-827b-cba64e0ac30a"
+},
+{
+"id": "habit.habitsunlocked",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "habits unlocked",
+"identifier": "7be28f23-4dcc-4042-a0a9-a2418b071192"
+},
+{
+"id": "profile.dailyreminder",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Daily motivation reminder",
+"identifier": "7c5b6a64-e977-4a01-ba69-4c328fafd2b3"
+},
+{
+"id": "global.cancelbutton",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "取消",
+"identifier": "7d5ab112-c08b-4284-8940-c368eaea6524"
+},
+{
+"id": "perf.title",
+"lastModified": "2018-12-20T08:51:56+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我的表现",
+"identifier": "7e089be6-f78e-4695-b1aa-eb751c5ca7c9"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_b66b64a0-130d-41b2-9824-434862120045.name",
+"lastModified": "2018-07-20T10:34:12+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Powermodule",
+"identifier": "7e4f689f-7915-4feb-a408-917c62a0382d"
+},
+{
+"id": "forgotpw.password_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "密码",
+"identifier": "7edff401-3095-4dc1-929d-4c1bab31b830"
+},
+{
+"id": "purchase.modulesbought",
+"lastModified": "2018-12-18T03:35:18+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已购买的课程",
+"identifier": "7f389cd3-3e86-438b-b6f7-97a6b7182be6"
+},
+{
+"id": "hadetail.linktext",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Why and how to do it?",
+"identifier": "7f40fa3c-f668-4f11-896f-fad8bff622e7"
+},
+{
+"id": "perf.monthfeb",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "February",
+"identifier": "7f5829f5-41a5-4bab-af09-01477c207479"
+},
+{
+"id": "profile.country",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "国家",
+"identifier": "7f6ab882-8e81-4a0f-9543-be2167db8914"
+},
+{
+"id": "payment.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Payment",
+"identifier": "7f6b6a51-56d0-439d-9510-ae3d81217499"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_6a642b6b-b876-472b-b1b3-f72988b95222.description",
+"lastModified": "2018-07-15T20:20:43+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": " workout exercise 3 module X  workout exercise 3 module X workout exercise 3 module X workout exercise 3 module X workout exercise 3 module X",
+"identifier": "7faaa5db-ceae-487f-87a7-eef442649922"
+},
+{
+"id": "activationsuccess.support",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Contact Support",
+"identifier": "80749078-945d-473e-882c-d4f5f01c282d"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_c5575e9f-a22c-409e-98d4-3d8cfae950a8.name",
+"lastModified": "2018-10-23T02:07:36+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯＃2",
+"identifier": "8092a9cb-7bc5-4e6b-b324-4a39bb9312eb"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fac07e65-bacd-4354-9787-e5bc95727088.description",
+"lastModified": "2019-01-10T06:00:59+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfh2",
+"identifier": "81025cd8-b4e3-4f83-92a7-0854ab2a22b7"
+},
+{
+"id": "exmodule.unlocked",
+"lastModified": "2018-12-16T04:08:13+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已解锁的",
+"identifier": "812af5d2-23e4-4611-9645-1bd3f93899db"
+},
+{
+"id": "surprise.button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Surprise me now!",
+"identifier": "828aa711-d1f4-4176-b18d-95b5b9644918"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_249f814b-a504-45b6-af20-a58f476194c2.excerpt",
+"lastModified": "2018-10-23T02:09:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "If you're new to WooCommerce and want to test it out before launching an online store, you can create a demo store similar to the one linked above. It's a great way to kick the tires and test the different processes in your ecommerce setup.",
+"identifier": "82c977ee-7918-496d-b6a7-41d6e5348326"
+},
+{
+"id": "info.invalidemail",
+"lastModified": "2018-12-20T08:52:24+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "邮件格式不对哦",
+"identifier": "82dabf30-d917-4560-be6d-a095dab97f2c"
+},
+{
+"id": "profile.signoutlink",
+"lastModified": "2018-12-20T08:52:42+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "退出登录",
+"identifier": "82e4b574-d667-4ea8-9188-c8906c0f8a94"
+},
+{
+"id": "perf.monthfeb",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "二月",
+"identifier": "82fad934-9860-48df-85fd-fb217abba2d3"
+},
+{
+"id": "info.finishedallhabits",
+"lastModified": "2018-11-22T06:20:28+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Finished all today's habits.",
+"identifier": "833a8883-1df2-48b2-a97d-4e77641e1947"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_99bc9c2c-8688-462b-b5c4-b4650f887812.name",
+"lastModified": "2018-10-23T02:14:22+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit #7",
+"identifier": "844bb0a4-8bd2-49c5-bee1-699a5f771132"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_4d6061e9-ff0a-414e-9605-49a7843bcd13.name",
+"lastModified": "2018-09-06T03:52:47+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Module Free",
+"identifier": "8496db80-026e-41b8-8a7c-e94fcc931708"
+},
+{
+"id": "habdis.stop",
+"lastModified": "2018-09-08T06:26:15+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Continue habit challenge",
+"identifier": "85642962-5780-4f3b-b1ad-45af7591f7ba"
+},
+{
+"id": "profile.disablehabits",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "禁用习惯",
+"identifier": "85694435-b508-439c-880d-a41282946454"
+},
+{
+"id": "perf.monthsep",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "September",
+"identifier": "859f21e1-42b4-4f3e-88cf-b92c0e489544"
+},
+{
+"id": "global.savebutton",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Save",
+"identifier": "859f4414-e235-48c0-a03b-c3f5c4a738f1"
+},
+{
+"id": "perf.ondate",
+"lastModified": "2018-11-04T13:56:06+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "日期：",
+"identifier": "861d15b1-e0ed-4398-8ffc-9fbdb3e11827"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_8db9bede-1e90-4922-a54b-75019e62a338.title",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "adfsfd",
+"identifier": "862885fd-6629-42f5-b4aa-331aae832032"
+},
+{
+"id": "global.infinitycommunity",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "infinity community",
+"identifier": "8664b155-0acc-4181-a2a5-c70f1e252601"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_72f89349-0044-405b-af2a-23404ac8352b.description",
+"lastModified": "2018-10-23T01:52:55+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Drink",
+"identifier": "87f99e87-df51-4b00-ae9d-60499f99615f"
+},
+{
+"id": "info.addphoto",
+"lastModified": "2018-11-22T06:03:48+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Add photo",
+"identifier": "8802b996-a9bd-403a-9173-7dd41cb6453d"
+},
+{
+"id": "purchmodule.exercises",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "exercises",
+"identifier": "8802fd2d-2c4a-42f9-b95e-d91a910bec4c"
+},
+{
+"id": "habdis.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Disable habits",
+"identifier": "88784715-3112-4539-9189-b1e48b1bbae7"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_42668236-e145-4b79-b376-cf1987f527cc.description",
+"lastModified": "2018-10-23T02:10:49+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Jump a bit",
+"identifier": "88bad285-8309-40a2-9d09-53b2ccb8378e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_95912203-0576-4f85-b6ac-e9d378d32432.name",
+"lastModified": "2018-07-12T10:17:39+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module 5",
+"identifier": "88ff6fe6-0d56-46f7-8038-eea0ce5314f9"
+},
+{
+"id": "profile.remindpersonalgoals",
+"lastModified": "2018-12-17T08:56:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "如果我没有完成任务的话，请敲打我！",
+"identifier": "890a1852-51e2-4b61-8d19-736ed2b48588"
+},
+{
+"id": "global.infinitycommunity",
+"lastModified": "2018-12-20T08:59:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "XS infinity小圈子",
+"identifier": "891a4419-6159-41d6-af14-ba21e364391e"
+},
+{
+"id": "faq.searchbar_title",
+"lastModified": "2018-12-20T09:03:34+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请写下您的问题",
+"identifier": "895bc015-2619-4625-8b59-159670267e91"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_a74682aa-9f37-4e0f-9143-7b487d90362c.name",
+"lastModified": "2018-07-15T20:17:58+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise module x",
+"identifier": "89ba4281-c291-40f5-a9e9-956688b41c65"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FaqCategory_c8c04dbc-871f-4f1d-8d80-32e831974817.title",
+"lastModified": "2018-09-08T05:24:52+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "App ",
+"identifier": "89e02c1b-c2e8-4d52-ac9a-4f3889b51310"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_7c72cb64-f0ea-4718-9cdc-2af2cc7a0921.description",
+"lastModified": "2018-07-15T20:18:55+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "8a24b0d0-5117-42c9-9119-fd74ec78523b"
+},
+{
+"id": "info.privacyadded",
+"lastModified": "2018-12-16T04:28:51+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "隐私设置更新成功！",
+"identifier": "8a37fb83-5b67-4dcc-9289-9952fa6a9f8e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e549067c-04be-4f61-a304-8d303c817509.name",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "C name",
+"identifier": "8d5fe739-c558-4d60-afbc-6b37d365fbe2"
+},
+{
+"id": "regstep2.male",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "male",
+"identifier": "8f16ce37-b551-4a7e-9c98-13323a83dc42"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_0b983269-2071-43a8-9681-206c4b8efe28.name",
+"lastModified": "2018-10-21T08:59:13+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Arm",
+"identifier": "8f4c12b7-295d-4cef-8841-f47410e12116"
+},
+{
+"id": "activation.description_text",
+"lastModified": "2018-12-20T09:06:32+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "好了，下一步：您将收到一封激活邮件。为了成功注册账号，请不要忘了在24小时内点击里面的激活链接哦。马上查一下邮件吧（：",
+"identifier": "8fdb4b9a-1ef2-43a7-9a80-00f52ff4cdc7"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_04cb553a-b8ca-4053-af4f-cd77b2f52b1e.name",
+"lastModified": "2018-10-21T08:58:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "鲍赫",
+"identifier": "8feed956-7f9c-4322-abf5-9f5d71cf2abe"
+},
+{
+"id": "activationsuccess.tryforfree_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "激活",
+"identifier": "90001574-2419-4a98-b7df-c6f43ecc3d68"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_249f814b-a504-45b6-af20-a58f476194c2.description",
+"lastModified": "2018-10-23T02:09:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Play a bit",
+"identifier": "9065c8a5-60ab-4218-b798-eac8aee0cb0d"
+},
+{
+"id": "global.difficultyeasy",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "easy",
+"identifier": "90dac213-02fd-4324-8132-77e10b2a460f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_95912203-0576-4f85-b6ac-e9d378d32432.description",
+"lastModified": "2018-07-12T10:17:39+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module 5 explanation Workout module 5 explanation Workout module 5 explanation Workout module 5 explanation ",
+"identifier": "90e8c1df-7ae4-405b-a094-7e6399a1e639"
+},
+{
+"id": "regstep2.firstlastname",
+"lastModified": "2018-12-19T11:08:11+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你的名字",
+"identifier": "915be657-9c00-40ce-8a9d-7ae00310c749"
+},
+{
+"id": "upload.private",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "private",
+"identifier": "9214a0bd-1601-4670-9002-96bbf91cb624"
+},
+{
+"id": "exfilter.reset_button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Reset filter",
+"identifier": "926fb051-3255-440f-bb01-9a2da97606c0"
+},
+{
+"id": "headsup.msg3",
+"lastModified": "2018-06-21T06:18:59+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "You finished all your habits and received {0} points yesterday!",
+"identifier": "92bc4dc1-7e96-406d-baee-9e0842e23933"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FocusArea_215b314d-5a3f-426b-b945-d379196d8adc.name",
+"lastModified": "2018-07-12T11:41:18+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Glutes",
+"identifier": "92c59547-6e3b-43a0-85c2-88c121f8de18"
+},
+{
+"id": "info.ratingsuccess",
+"lastModified": "2018-11-22T06:14:53+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Rating successfully added.",
+"identifier": "92cf741d-aa75-49c1-8709-e78124ea2be4"
+},
+{
+"id": "upload.public",
+"lastModified": "2018-12-21T05:57:24+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "任何人可见",
+"identifier": "93158ae4-2c28-495d-8b5a-003825648a0c"
+},
+{
+"id": "dailylog.totalusage",
+"lastModified": "2018-12-19T11:11:36+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "XS infinity使用时长",
+"identifier": "931e9bb1-6e70-43f8-be13-ac115cecb6d1"
+},
+{
+"id": "profile.purchasehistory",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "View purchase history",
+"identifier": "939b54c1-c1f8-413b-9abd-5a61335711c0"
+},
+{
+"id": "activation.description_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "You received an email with an activation link to your email address. Please activate your account within the next 24 hours.",
+"identifier": "94886a9d-f454-4704-96b1-ca43a9850b91"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FocusArea_c48c1fad-8ad1-4dfd-b087-2ebfbad8cd78.name",
+"lastModified": "2018-07-12T11:42:01+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "脊背",
+"identifier": "9489a9c0-0e40-4d73-ad67-389046a0697d"
+},
+{
+"id": "regstep2.country",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "国家",
+"identifier": "9541c706-5bfd-4892-b0be-82490c091178"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_abe1dadb-a407-48ad-8f00-62eb68458e49.description",
+"lastModified": "2019-01-10T05:55:53+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutf2m-cn",
+"identifier": "95581df5-bbc8-4e03-97dd-ca83ed2773c9"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_a74682aa-9f37-4e0f-9143-7b487d90362c.description",
+"lastModified": "2018-07-15T20:17:58+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module 2 explanation Workout module 2 explanation Workout module 2 explanation Workout module 2 explanation Workout module 2 explanation ",
+"identifier": "95aa62db-4271-4ac7-95cd-35936b6b5776"
+},
+{
+"id": "habit.cyclescompleted",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit cycles completed:",
+"identifier": "95b9b096-7392-4f0f-bb5b-7042a4d89057"
+},
+{
+"id": "ex.selectdiff_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Select difficulty & module",
+"identifier": "9751db8f-f8e8-488c-8577-94d92d1ac4c6"
+},
+{
+"id": "global.rateokay",
+"lastModified": "2018-12-21T06:28:45+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "正合适我！",
+"identifier": "97c6a379-95b1-456d-a077-50e229207cab"
+},
+{
+"id": "perf.day",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Daily",
+"identifier": "97e8b1ab-ba80-4a2c-b0dd-bc5599c3f2af"
+},
+{
+"id": "info.deleteaccountdata",
+"lastModified": "2018-11-22T06:24:51+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Delete Account & data",
+"identifier": "97f7cf0c-720b-4c5d-a636-a94079254a8d"
+},
+{
+"id": "info.deleteaccountconfirm",
+"lastModified": "2018-11-22T06:26:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你确定要删除自己的帐户和数据？",
+"identifier": "9852a48b-96d2-475b-8039-d79a432d2dec"
+},
+{
+"id": "habdis.stop",
+"lastModified": "2018-12-20T08:54:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "继续挑战习惯",
+"identifier": "9a0911d1-9fcc-4b0e-867e-46d6f16873bd"
+},
+{
+"id": "faq.needhelplink",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "I need more help",
+"identifier": "9a5219c8-09cc-4ab9-aa58-f0fc4554c0cf"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_efe9595d-38b1-4d5d-a7c0-3f1ec5536565.description",
+"lastModified": "2018-10-23T02:13:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "跳舞了一下",
+"identifier": "9a8852e2-7fcc-44a6-a8d1-aa19ae3be1f1"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_3454d53f-d941-4335-8026-c15b9c1f0a20.title",
+"lastModified": "2018-09-08T05:34:07+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 如果您是WooCommerce的新?",
+"identifier": "9aab12be-3c63-415b-ab59-c35cf367d787"
+},
+{
+"id": "perf.monthdescr",
+"lastModified": "2018-12-21T05:58:39+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "月份：",
+"identifier": "9b647a98-6311-46c1-b4e2-eb580d0d6ba4"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_1925dbbd-e10f-450b-9adb-0b0248959b84.name",
+"lastModified": "2018-10-21T08:59:52+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Calf",
+"identifier": "9b693d51-5e9a-4c7e-920a-ee18828c133b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_46d7a931-8f6a-42be-b73a-8f2d6a50445d.description",
+"lastModified": "2018-10-23T02:11:55+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "跳舞了一下",
+"identifier": "9b7c456d-960b-4586-9c8a-d47b6a6b139f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_64072af7-ade5-4d03-ba22-7ffd0beffadd.name",
+"lastModified": "2018-07-12T10:17:03+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module 4",
+"identifier": "9b93dcd2-060f-4a1b-934c-f70ae4c40044"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_6f1bfed1-7991-47bc-99cd-e779686a0ee7.name",
+"lastModified": "2018-06-20T20:51:35+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout",
+"identifier": "9b9aa68f-a49b-45d4-b9a6-a22021e17372"
+},
+{
+"id": "activationsuccess.description_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Your account has been activated",
+"identifier": "9be73d2f-d1d7-404e-91e1-127f310f0e69"
+},
+{
+"id": "user.progressgallery_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Progress Gallery",
+"identifier": "9c0cc4fa-d832-4ddd-a648-52e21bf2ee0b"
+},
+{
+"id": "profile.settings_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "设置",
+"identifier": "9c168de2-8cc4-4aca-a85a-d965a2189cd9"
+},
+{
+"id": "terms.title",
+"lastModified": "2018-12-17T11:20:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "服务条款",
+"identifier": "9c7ef3eb-77fe-4ca3-a009-ad20fe562422"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_043890b8-57c8-4ef2-a30e-36981b633e1a.name",
+"lastModified": "2018-07-15T20:23:18+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块2",
+"identifier": "9c90ec28-b4d2-4556-a1dc-b160ac1a66d4"
+},
+{
+"id": "regstep1a.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Complete your profile",
+"identifier": "9cbe26a2-4f71-4081-ad71-356667665619"
+},
+{
+"id": "global.password",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "密码",
+"identifier": "9d5ae61a-b054-432b-9389-fd38b3e15784"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fac07e65-bacd-4354-9787-e5bc95727088.name",
+"lastModified": "2019-01-10T06:00:59+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfh2CN",
+"identifier": "9d9ee60d-6e23-4f3d-859b-bf9f8c3cb73f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_c7bf5a95-aae3-4944-9b4f-52386e80d078.description",
+"lastModified": "2018-06-20T20:54:00+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "This is an exercise",
+"identifier": "9e312ec0-7831-4714-9992-21370226eb76"
+},
+{
+"id": "global.cancelbutton",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Cancel",
+"identifier": "9f04dfb8-38d3-46cd-8bba-9821e01b1e6c"
+},
+{
+"id": "faq.gotit_button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Okay, I got it",
+"identifier": "9f7d93b9-54a0-4ddb-9d5a-d04e8f69f559"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_9c80f000-d182-4bca-8f81-d30f41b8b942.name",
+"lastModified": "2019-01-10T06:00:19+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfe1",
+"identifier": "a030739e-1172-4f39-b4d9-ac796e75abee"
+},
+{
+"id": "global.minutes",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分钟",
+"identifier": "a06d9600-6467-4e93-9abb-2cd092a84c04"
+},
+{
+"id": "onboard.text2",
+"lastModified": "2018-12-21T06:01:13+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每天至少做一个训练，或设定您自己的最低训练目标。",
+"identifier": "a09b3411-1139-437d-a288-778123ce96a6"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_3454d53f-d941-4335-8026-c15b9c1f0a20.answer",
+"lastModified": "2018-09-08T05:34:07+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 如果您是WooCommerce的新手，並希望在啟動在線商店之前對其進行測試，您可以創建一個類似於上面鏈接的模擬商店。這是一個很好的方式來啟動輪胎並測試電子商務設置中的不同流程。",
+"identifier": "a10834cd-155c-4848-b98b-e564d32c5330"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_95912203-0576-4f85-b6ac-e9d378d32432.description",
+"lastModified": "2018-07-12T10:17:39+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "5分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "a1f01771-c7e0-4285-82f1-33e38ca04de5"
+},
+{
+"id": "perf.weeknumber",
+"lastModified": "2018-11-04T13:56:46+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "week number:",
+"identifier": "a1f44e2d-7e17-40cc-b950-2fb5726c0ce8"
+},
+{
+"id": "onboard.button3",
+"lastModified": "2018-12-08T06:20:20+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Sound great, what else?",
+"identifier": "a38aa9b9-7348-4443-8111-53909f3d342f"
+},
+{
+"id": "habit.lockedexplanation",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Complete 6 days to unlock this habit",
+"identifier": "a3ca22d8-cca8-4492-9cd3-89039925c013"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FaqCategory_3a3d1b9b-de84-4f68-9418-6765c4d13d3a.title",
+"lastModified": "2018-09-08T05:24:33+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "General",
+"identifier": "a416ed16-a07e-4e24-b15f-8badcaddf70f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fac07e65-bacd-4354-9787-e5bc95727088.description",
+"lastModified": "2019-01-10T06:00:59+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfh2CN",
+"identifier": "a4b7771f-962c-41e6-ac37-ae5ec88a2b33"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_622173b9-08c9-43a3-bc4d-4e6d95c6e06b.description",
+"lastModified": "2018-07-12T10:15:51+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "3分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "a4d56a98-ba31-4fcd-8758-4f6d16e82f8f"
+},
+{
+"id": "ex.of",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "of",
+"identifier": "a5218957-efad-4a65-ae65-75ddb5ec3170"
+},
+{
+"id": "global.habitpoints",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "habit points",
+"identifier": "a5584113-a521-4428-851f-63b339a4b3d7"
+},
+{
+"id": "ratesmiley.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Rate this exercise",
+"identifier": "a69e10e9-6eaf-44b3-80b9-87dff00ed23c"
+},
+{
+"id": "perf.daymon",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "星期一",
+"identifier": "a6a4549c-2044-4fd5-8ae4-7a12147438d2"
+},
+{
+"id": "purchmodule.popupbutton",
+"lastModified": "2018-08-29T04:04:30+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Okay",
+"identifier": "a6ac772d-4903-47e1-9d55-49eb52737949"
+},
+{
+"id": "perf.daysat",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "星期六",
+"identifier": "a6e09e13-724b-472d-8215-9ccea1a25ced"
+},
+{
+"id": "regstep2.street",
+"lastModified": "2018-12-09T07:25:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "街道",
+"identifier": "a724fe5a-62e6-4ec8-ab6d-1bb59011e7dc"
+},
+{
+"id": "profile.address_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Address",
+"identifier": "a7672a1e-1cfa-4008-ad02-0c0df27619e0"
+},
+{
+"id": "info.deleteaccountconfirm",
+"lastModified": "2018-11-22T06:25:36+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Are you sure you want to delete your account & data?",
+"identifier": "a76f51b3-3ffc-432d-b2d8-233c8fe3dafc"
+},
+{
+"id": "upload.croptitle",
+"lastModified": "2018-12-20T00:19:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请选择剪裁区域",
+"identifier": "a794cbc5-8325-49cf-802d-17029ceb18a7"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_d3e44442-74be-473c-9b5e-a94531454bd1.name",
+"lastModified": "2018-07-15T20:31:25+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块2",
+"identifier": "a826922c-3545-4aa9-bade-a8da22aea483"
+},
+{
+"id": "onboard.button2",
+"lastModified": "2018-12-18T03:20:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "好滴，懂了。",
+"identifier": "a88b818b-559b-46da-86d4-cd37f547b68b"
+},
+{
+"id": "ex.continousdays",
+"lastModified": "2018-12-21T06:04:24+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "连续训练天数",
+"identifier": "a8b32826-476b-4bdf-a86d-b703e6db9e3e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_ead57e53-f072-4b95-9c42-bc2bcf226908.title",
+"lastModified": "2018-09-08T05:31:50+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "可以創建一個類似於上面鏈接的模擬商2?",
+"identifier": "a8d99931-3a1b-4674-bbd3-8474f9ba91f3"
+},
+{
+"id": "newpassword.description_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Please enter your new password",
+"identifier": "a8df74f6-3039-4a5e-b453-5758f5c2b214"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_cc2cfa98-037a-4943-987f-d299fa5f64c2.description",
+"lastModified": "2018-07-12T10:19:02+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "a8ed4849-8b3f-4d1f-af98-8701aa1ad171"
+},
+{
+"id": "perf.monthdescr",
+"lastModified": "2018-11-06T13:11:47+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "month:",
+"identifier": "a93dc973-918b-420e-a1c3-d3ce1e60d72c"
+},
+{
+"id": "tryforfreepw.password_field",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Password",
+"identifier": "a9432507-93f0-4a2e-8fae-ae01019e2605"
+},
+{
+"id": "tryforfree.description_text",
+"lastModified": "2018-12-20T00:18:45+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请告诉我您的姓名和电子邮件，这样我好为您创建一个帐户。",
+"identifier": "a979e8b7-3820-4b5c-9d2b-d614c05585ab"
+},
+{
+"id": "profile.purchasehistory",
+"lastModified": "2018-12-21T05:57:47+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "查看购买记录",
+"identifier": "aa457d0e-f30c-4111-8fa2-65ab07c9b9e5"
+},
+{
+"id": "info.pwreset",
+"lastModified": "2018-12-10T06:15:58+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "密码已经重置好啦",
+"identifier": "aa70b6c7-5e2f-43de-8874-a5a021ccf5cb"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fe19d050-957f-40e3-847d-5c9f2bd95617.description",
+"lastModified": "2018-07-15T20:31:06+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "asdlnkf",
+"identifier": "aacdffe9-6a17-43f5-8ded-0d399e71b231"
+},
+{
+"id": "exfilter.mytop10",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Top 10",
+"identifier": "aae48d32-30d2-4e4e-92e1-e14ea7a015d9"
+},
+{
+"id": "info.slowinternet",
+"lastModified": "2018-12-21T06:05:35+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你的网络好像变成了一只蜗牛🐌……",
+"identifier": "ab2614ad-9675-481c-8d77-62c83d0cb985"
+},
+{
+"id": "purchmodule.activatenow",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Purchase now",
+"identifier": "aba0fae1-d187-4476-ade3-e4d922489a49"
+},
+{
+"id": "headsup.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Today's heads-up",
+"identifier": "abaf2854-8ce8-4f6d-9f8c-8812f6c6a6f6"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_64072af7-ade5-4d03-ba22-7ffd0beffadd.description",
+"lastModified": "2018-07-12T10:17:03+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module4 explanation Workout module4 explanation Workout module4 explanation Workout module4 explanation ",
+"identifier": "abb8c343-560e-40dc-a40c-c3d4b6798dcb"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_99bc9c2c-8688-462b-b5c4-b4650f887812.description",
+"lastModified": "2018-10-23T02:14:22+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "sleep a bit",
+"identifier": "ac31a981-b0fd-4b7a-8e07-0af5396f8609"
+},
+{
+"id": "perf.communitycompetition_title",
+"lastModified": "2018-12-20T09:00:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "小圈子竞赛",
+"identifier": "ac666257-8008-4332-8706-36976765dc35"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_b66b64a0-130d-41b2-9824-434862120045.name",
+"lastModified": "2018-07-20T10:34:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块2",
+"identifier": "ad12d0a3-a0ad-41bf-b981-754a3e46290e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_112e75cd-bdd6-445e-af3b-096c202bc926.title",
+"lastModified": "2018-09-08T05:32:33+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "並希望在啟動在線商店之前對其進行測試1",
+"identifier": "ad241f9f-2bb9-4c07-ac6b-490bfee544e1"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fe0fc777-b247-49c4-8795-8082a7447a36.name",
+"lastModified": "2019-01-10T05:57:34+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfh1CN",
+"identifier": "ad61271c-cd41-48f5-afd1-f7f155a59c68"
+},
+{
+"id": "info.habitAlreadyFinished",
+"lastModified": "2018-12-21T06:09:32+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你已经成功养成这个习惯了。",
+"identifier": "ad82d330-6e05-4dc4-9ddd-43de46eec2e7"
+},
+{
+"id": "dailylog.minutes",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分钟",
+"identifier": "ad8354a0-fd91-413d-8bcc-542064828fac"
+},
+{
+"id": "global.reps",
+"lastModified": "2019-01-12T07:45:24+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "次数",
+"identifier": "adb7a58d-e88f-4629-9571-eae2e6049e8b"
+},
+{
+"id": "extype.seconds",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "秒",
+"identifier": "ae160ba3-ac79-4a41-9998-ba08fc4ab2fe"
+},
+{
+"id": "upload.dateofpic",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Picture dated",
+"identifier": "ae94f6d3-4328-4a46-a28b-b1c4aef7c31a"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_b66b64a0-130d-41b2-9824-434862120045.howToUseDescription",
+"lastModified": "2019-01-10T08:46:04+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "how to use it EN",
+"identifier": "aefe99f7-16f0-401e-bc07-9270baec19ea"
+},
+{
+"id": "global.exercisepoints",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "exercise points",
+"identifier": "af098ff6-b6a2-4aa7-b8a6-2cc42ddf5936"
+},
+{
+"id": "newpassword.newpassword_field",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "New password",
+"identifier": "af1c1521-66be-4d6f-aaaa-3db2bddacf49"
+},
+{
+"id": "faq.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "FAQs",
+"identifier": "af432bac-b2df-4347-9224-183647074f30"
+},
+{
+"id": "info.camera",
+"lastModified": "2018-11-22T06:09:47+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "相机",
+"identifier": "b029e425-3d7c-4ee9-9ed6-6de66d1d4b4f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_ca85b41b-41ea-41ab-9d97-26e89c5d5e73.name",
+"lastModified": "2018-07-12T10:13:09+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout Module 1",
+"identifier": "b04a8217-dce2-4021-9c5b-0d123545f134"
+},
+{
+"id": "Imprint.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "版本说明",
+"identifier": "b07c29ae-274a-450b-aed2-5e89f625ed8c"
+},
+{
+"id": "global.difficultymedium",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "medium",
+"identifier": "b08fc152-fb4f-4e93-aa9c-d85887bf0e1d"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fe19d050-957f-40e3-847d-5c9f2bd95617.description",
+"lastModified": "2018-07-15T20:31:06+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块2锻炼模块2锻炼模块2锻炼模块2",
+"identifier": "b0ea4066-d660-41f8-a873-3eb32d57c8cf"
+},
+{
+"id": "ex.selectdiff_title",
+"lastModified": "2018-12-21T05:58:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "选择难度和课程",
+"identifier": "b11aeefa-2471-4a1d-9628-82c5c8cd54f7"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_8db9bede-1e90-4922-a54b-75019e62a338.title",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "asdffsd",
+"identifier": "b1bd314c-4897-4e96-866f-d1be0092244f"
+},
+{
+"id": "info.facebooknotavail",
+"lastModified": "2018-12-17T11:27:20+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "Facebook连接好像有问题哦",
+"identifier": "b1f9d82f-148a-4dcc-8729-a9a32d4fac0a"
+},
+{
+"id": "headsup.msg6",
+"lastModified": "2018-06-21T06:18:59+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "A new exercise has been unlocked in {moduledifficutly} of {modulename}",
+"identifier": "b213fb99-5d9f-4117-b68e-c7f678e01bd9"
+},
+{
+"id": "profile.dailyreminder",
+"lastModified": "2018-12-20T08:51:43+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "如果我忘了训练，一定要敲打我！",
+"identifier": "b217eba9-49de-4131-a0b6-a88e17d29153"
+},
+{
+"id": "info.ratingsuccess",
+"lastModified": "2018-12-21T05:56:31+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "评价成功！",
+"identifier": "b2537d3c-ce08-4905-af8c-ef65299d5fd1"
+},
+{
+"id": "ratepop.nothanks",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "不用了，谢谢",
+"identifier": "b26f3007-6421-43e7-8386-3e1d48c4720d"
+},
+{
+"id": "profile.city",
+"lastModified": "2018-12-21T06:12:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "城市",
+"identifier": "b2a154a0-c236-4170-9863-a9b369c901a1"
+},
+{
+"id": "global.difficultyhard",
+"lastModified": "2018-12-21T06:12:32+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "高手",
+"identifier": "b32c6c41-c01f-4347-9144-32908eb659a3"
+},
+{
+"id": "global.habitpoints",
+"lastModified": "2018-12-21T06:01:52+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯得分",
+"identifier": "b32fd784-c72c-469f-9dc4-0d8e21ea96c2"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FaqCategory_c8c04dbc-871f-4f1d-8d80-32e831974817.title",
+"lastModified": "2018-09-08T05:24:52+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "APP",
+"identifier": "b3bc602e-3ece-48db-be1f-cee306cbe224"
+},
+{
+"id": "habit.lastreset",
+"lastModified": "2018-12-21T06:13:21+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "最后一次重置：",
+"identifier": "b4a52c51-f613-4fb8-b797-67cf53c53daf"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_efe9595d-38b1-4d5d-a7c0-3f1ec5536565.excerpt",
+"lastModified": "2018-10-23T02:13:16+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Have to like the internet sometimes. I taped this off the radio back in the 80s. I had no idea what it was called. Was just now listening to some Khruangbin (\"new\" music to a 50-something) and youtube decided I might like this. Its taken 35 years to  find! Until now I could only describe it as \"A song that should have been on the Apocalypse Now soundtrack\"\ufeff",
+"identifier": "b549558a-fbd8-4fb8-abbe-9df988124fa1"
+},
+{
+"id": "perf.habitpoints",
+"lastModified": "2018-12-21T06:13:39+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯得分",
+"identifier": "b54b8514-6359-4b65-b12a-d9b1062361b6"
+},
+{
+"id": "activationsuccess.button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Resend activation email",
+"identifier": "b5bd48c6-7e0d-4c84-8ca1-63bccb9ec706"
+},
+{
+"id": "perf.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Performance",
+"identifier": "b63e6a33-9a9f-4d1b-829d-e01191231496"
+},
+{
+"id": "regstep1b.description",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Select crop area",
+"identifier": "b655efbf-a545-48e5-a422-3e57bcd92eb1"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_c7bf5a95-aae3-4944-9b4f-52386e80d078.name",
+"lastModified": "2018-06-20T20:54:00+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "行使1",
+"identifier": "b68d5832-a06a-4a20-8e6a-c9a022b120fa"
+},
+{
+"id": "activationsuccess.description_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "您的帐号已经激活",
+"identifier": "b6dc3b51-c595-4b9e-9bb5-d875c9b59ca3"
+},
+{
+"id": "info.someinputdatamissing",
+"lastModified": "2018-12-08T06:39:42+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Some input data is missing.",
+"identifier": "b73db327-8302-4944-9dd4-6d6da347e644"
+},
+{
+"id": "community.button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Got it",
+"identifier": "b748bced-8b48-47f3-b066-48c911530229"
+},
+{
+"id": "extype.reps",
+"lastModified": "2018-12-18T03:18:42+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "重复次数",
+"identifier": "b752131c-0ec1-4a89-ba2d-b47a8548e2d7"
+},
+{
+"id": "exlist.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise list",
+"identifier": "b88f3695-5069-44d7-af47-c73ae8c1289b"
+},
+{
+"id": "exlist.searchbar_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Search by name",
+"identifier": "b8de990e-1c19-45e8-9e15-e14c8b93bbd4"
+},
+{
+"id": "regfinal.description",
+"lastModified": "2018-12-21T06:18:48+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "恭喜您注册成功！现在就开始你的训练吧 （：",
+"identifier": "b9056529-36ff-4805-9464-93c07153da31"
+},
+{
+"id": "perf.monthdec",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "十二月",
+"identifier": "b9b67dd3-8e5f-4057-9bdf-53dc979075d0"
+},
+{
+"id": "profile.city",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "City",
+"identifier": "b9c61373-cb35-43ef-a64a-c97426559375"
+},
+{
+"id": "payment.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "付款",
+"identifier": "b9f90038-6894-4fa9-bff2-668cd0208229"
+},
+{
+"id": "global.username",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Username",
+"identifier": "ba36c963-e827-49ea-8a42-8b058972c97c"
+},
+{
+"id": "habit.availhabits",
+"lastModified": "2018-12-17T10:32:58+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已解锁的习惯",
+"identifier": "ba8566dd-183c-4e5d-9c89-004dacce41a4"
+},
+{
+"id": "info.invalidemail",
+"lastModified": "2018-11-22T06:10:42+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Invalid email",
+"identifier": "ba86202d-5c10-4fad-8649-d4f2d2c5cce2"
+},
+{
+"id": "excan.stop",
+"lastModified": "2018-12-17T10:55:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "确定退出",
+"identifier": "babd33c8-f613-4cc3-82d8-322a56ee71bc"
+},
+{
+"id": "tryforfreepw.description_text",
+"lastModified": "2018-12-17T11:25:46+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "现在就为你的免费帐户设置一个密码吧",
+"identifier": "bb24b7c1-0784-4713-8ec9-e4a6fddf5a92"
+},
+{
+"id": "perf.dayfri",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Friday",
+"identifier": "bb3f1837-74f7-4b73-8347-df547520bcd2"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_99bc9c2c-8688-462b-b5c4-b4650f887812.description",
+"lastModified": "2018-10-23T02:14:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "睡了一下",
+"identifier": "bba384db-b30e-47e0-b3ec-a3e85f7632a4"
+},
+{
+"id": "perf.monthjan",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "January",
+"identifier": "bc24aaa5-5cc2-47f7-80d0-f17597893392"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_7c72cb64-f0ea-4718-9cdc-2af2cc7a0921.name",
+"lastModified": "2018-07-15T20:18:55+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise 1 module x",
+"identifier": "bc7fa4bb-31cc-4b50-bf8a-472fa671b925"
+},
+{
+"id": "regfinal.description",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Your registration is completed. Start using your new module now.",
+"identifier": "bddc046c-5ffc-48e0-8696-ec16a412d147"
+},
+{
+"id": "signin.signin_button",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "sign in",
+"identifier": "bdf6834c-bf23-40c1-9fc0-4bda494bbd90"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_42668236-e145-4b79-b376-cf1987f527cc.name",
+"lastModified": "2018-10-23T02:10:49+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit #4",
+"identifier": "be4026b9-8065-4483-9f60-105f7bb98b3e"
+},
+{
+"id": "info.slowinternet",
+"lastModified": "2018-12-08T06:38:57+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "You have a slow internet connection.",
+"identifier": "be82dc74-2fa7-46fe-a505-07ca5a5ba6de"
+},
+{
+"id": "global.ratechallenging",
+"lastModified": "2018-12-21T06:21:43+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "咬牙完成！",
+"identifier": "bef2a839-da33-42a8-b427-38b6d3193974"
+},
+{
+"id": "onboard.button1",
+"lastModified": "2018-12-09T07:19:58+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "别犹豫了，赶紧练吧",
+"identifier": "bf184162-5aaf-4282-b1ee-9ccea9fcc45c"
+},
+{
+"id": "info.habitAlreadyFinished",
+"lastModified": "2018-11-28T03:16:47+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "This habit is already finished",
+"identifier": "bf5a7c45-eff7-4622-ad30-5df98100b920"
+},
+{
+"id": "purchmodule.popuptext",
+"lastModified": "2018-08-29T04:02:44+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Please log in to our website and activate this module in the admin panel.",
+"identifier": "bf86c9a7-4afe-440f-ab37-d9c627a120c2"
+},
+{
+"id": "dailylog.exercisesfinished",
+"lastModified": "2018-12-09T07:19:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "训练完成啦",
+"identifier": "bf95809b-32d0-469b-8bb4-34da5abe2d7d"
+},
+{
+"id": "habit.lastreset",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Last reset:",
+"identifier": "bf9cb2e3-24dc-4cbe-b906-afd55d8a4538"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_4d6061e9-ff0a-414e-9605-49a7843bcd13.name",
+"lastModified": "2018-09-06T03:52:47+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "免费模块",
+"identifier": "bfb4613a-486b-411a-a1cc-35271056d534"
+},
+{
+"id": "community.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Community Ranking",
+"identifier": "bfc14bb4-018b-434f-828d-e64f3051586f"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_b66b64a0-130d-41b2-9824-434862120045.description",
+"lastModified": "2018-07-20T10:34:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "bfceb6ee-6d16-44fb-9210-ff3158d3945f"
+},
+{
+"id": "dailylog.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Activitiy on",
+"identifier": "bfea3a65-c809-4881-a4c8-aa885156d7af"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_1ad8de3b-fee1-4ae4-94b1-daabd93aae52.description",
+"lastModified": "2018-07-15T20:21:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "c00e3147-b03b-4f39-bb30-3c8df59e563e"
+},
+{
+"id": "purchmodule.totalof",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Total of",
+"identifier": "c01b4c15-fed7-47e6-b3c4-aa3dd7439048"
+},
+{
+"id": "perf.daywed",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Wednesday",
+"identifier": "c0e184fb-6c67-4567-bbcc-3029b412674f"
+},
+{
+"id": "perf.monthaug",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "八月",
+"identifier": "c0e97f68-9b18-49ae-99d5-db8e157bcbd8"
+},
+{
+"id": "headsup.msg6",
+"lastModified": "2018-12-21T06:11:44+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "一个新训练已经被成功解锁，位于课程{modulename}中，难度级别为{moduledifficutly} ",
+"identifier": "c13647f4-cf2b-4fc3-b36b-8effbc3a8120"
+},
+{
+"id": "ratesmiley.title",
+"lastModified": "2018-12-21T06:03:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "为自己的表现打分",
+"identifier": "c1dc9d00-ffc0-4eff-93e6-d2c8e4935d6f"
+},
+{
+"id": "regstep2.city",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "city",
+"identifier": "c24ba814-48f4-4abc-9827-bc07c2c52ba1"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FocusArea_815b4a20-93d7-47f2-9f2b-ae2064e4dfc9.name",
+"lastModified": "2018-07-12T11:41:37+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Belly",
+"identifier": "c2e0d22d-9de9-446c-aea3-4de93af49a72"
+},
+{
+"id": "hadetail.points",
+"lastModified": "2018-12-18T04:20:35+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分",
+"identifier": "c337f418-daba-456a-a0d8-56ce1381372c"
+},
+{
+"id": "purchmodule.activatenow",
+"lastModified": "2018-12-21T06:05:50+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "现在购买",
+"identifier": "c345fed9-cae1-4894-bdfa-0675640706a8"
+},
+{
+"id": "regstep2.city",
+"lastModified": "2018-12-21T06:29:33+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "城市",
+"identifier": "c366ef95-efba-4a71-bdb0-3195547b0568"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_d62e3766-36ab-4e67-ba71-f3843c40e92b.description",
+"lastModified": "2019-01-10T05:54:42+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutf1m",
+"identifier": "c3cf2863-99ad-41b6-98f8-17a338fbd422"
+},
+{
+"id": "activation.resendemail",
+"lastModified": "2018-12-21T06:30:57+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "开始你的XS无极限！",
+"identifier": "c3e3c00b-128d-4e5c-99ed-c170e163e86a"
+},
+{
+"id": "profile.account_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Account",
+"identifier": "c4248577-2106-4eee-8514-14a0f4f1a2e3"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_46d7a931-8f6a-42be-b73a-8f2d6a50445d.description",
+"lastModified": "2018-10-23T02:11:55+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Dance a bit",
+"identifier": "c457504e-fc26-41e9-9b3d-64b9af80763d"
+},
+{
+"id": "purch.purchmodule",
+"lastModified": "2018-12-21T06:31:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "购买课程",
+"identifier": "c53449bd-770f-454a-8485-32f1cef1da1b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_6a642b6b-b876-472b-b1b3-f72988b95222.description",
+"lastModified": "2018-07-15T20:20:12+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "c53587e0-68e4-4741-bb9c-75b62d30e856"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_04cb553a-b8ca-4053-af4f-cd77b2f52b1e.name",
+"lastModified": "2018-10-21T08:58:22+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Bauch",
+"identifier": "c592c057-f63b-40ca-99cb-cd0d76a19a0b"
+},
+{
+"id": "ex.surprisedescription",
+"lastModified": "2018-12-09T07:15:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "今天练点儿什么呢？给我一个惊喜吧！",
+"identifier": "c5998c15-d7e1-4d99-869e-44dc2f6e12ca"
+},
+{
+"id": "purchmodule.medium",
+"lastModified": "2018-12-21T06:52:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "中级",
+"identifier": "c635fe6f-a132-4c95-bf6e-275d2dd01bc4"
+},
+{
+"id": "perf.monthoct",
+"lastModified": "2018-10-06T14:41:25+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "October",
+"identifier": "c73f867f-4cc0-4888-892c-405741877a57"
+},
+{
+"id": "imprint.text",
+"lastModified": "2018-11-16T09:00:31+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+"identifier": "c755e71c-319e-4553-b438-154410d705f4"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_e06d8952-7d93-4c17-a54b-276bd01c210a.name",
+"lastModified": "2018-07-15T20:22:37+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise Repetition ",
+"identifier": "c7bb8d33-a98a-4954-8df2-2d0f4cffca17"
+},
+{
+"id": "ratepop.yesanswer",
+"lastModified": "2018-12-18T04:22:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我来打分",
+"identifier": "c7f52e56-d21c-4684-8cd4-35ac09c8bb85"
+},
+{
+"id": "global.difficultyhard",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "hard",
+"identifier": "c7f748cb-393c-402c-a433-20af151b58fc"
+},
+{
+"id": "community.text",
+"lastModified": "2018-12-18T03:34:06+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "排名是按照训练得分来排的哦，没有完成你设定的每日最低训练目标会被罚1分哦。一定每天连续完成任务，加油！",
+"identifier": "c81a3227-4009-4f21-9d83-66fb671c53f3"
+},
+{
+"id": "perf.performance_title",
+"lastModified": "2018-12-21T06:32:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我的进步",
+"identifier": "c8274b1a-fc1f-4673-8437-93bdb3871c1d"
+},
+{
+"id": "headsup.of",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "of",
+"identifier": "c871d66e-37ba-4cc1-a605-c4090c80eca5"
+},
+{
+"id": "global.ratetooeasy",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Too easy",
+"identifier": "c8b30b12-b17f-4873-bc81-cca587a7ae4b"
+},
+{
+"id": "exfilter.activated",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "activated",
+"identifier": "c8f6bcff-8d3d-45ca-8741-9b0ce0a5f8cb"
+},
+{
+"id": "perf.ondate",
+"lastModified": "2018-11-04T13:55:18+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "date:",
+"identifier": "c9034626-a0d5-49c9-9589-2c97f045a9b7"
+},
+{
+"id": "habitchall.description",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Dont miss a day and complete 7 days in a row to unlock the next habits.\u2028 The „Rest Day 7“ is automatically checked for you. ",
+"identifier": "c9212481-1678-4759-843b-409c60111a4e"
+},
+{
+"id": "habit.habitsunlocked",
+"lastModified": "2018-12-20T08:49:50+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已解锁的习惯",
+"identifier": "c9f4f586-f8ca-4a24-a974-e668ea8c2a6c"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_42668236-e145-4b79-b376-cf1987f527cc.excerpt",
+"lastModified": "2018-10-23T02:10:49+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是如果您是",
+"identifier": "ca28f037-4da6-4a29-99cb-cfceeca12390"
+},
+{
+"id": "profile.disablehabits",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Disable habits",
+"identifier": "ca2d1115-0360-40bf-a3a8-970c1b389ee4"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e118922f-3506-4f44-befb-2438b6b8868f.description",
+"lastModified": "2018-07-12T10:14:53+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Workout module 2 explanation Workout module 2 explanation Workout module 2 explanation Workout module 2 explanation Workout module 2 explanation ",
+"identifier": "ca82eefd-ab54-4d44-94d1-01ae012c1820"
+},
+{
+"id": "excan.continue",
+"lastModified": "2018-12-18T03:30:42+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我练上瘾了，我要继续！",
+"identifier": "ca887ae2-01c9-4caf-be0d-ecb8d0557565"
+},
+{
+"id": "perf.monthapr",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "四月",
+"identifier": "cadedf92-363b-46a1-8263-34b6d7853158"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_d3e44442-74be-473c-9b5e-a94531454bd1.description",
+"lastModified": "2018-07-15T20:31:25+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块2",
+"identifier": "caf6ca5c-2b7b-40b9-8731-7ff70bd4cd1e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fe19d050-957f-40e3-847d-5c9f2bd95617.name",
+"lastModified": "2018-07-15T20:31:06+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块2",
+"identifier": "cb08316e-b2f0-43fe-b93b-b447a18a4d5a"
+},
+{
+"id": "habit.successivedays",
+"lastModified": "2018-12-17T11:23:14+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "连续完成的天数",
+"identifier": "ccb5ee8c-aff9-49c0-96a6-a93536093128"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_b488126a-ef60-4f3f-b042-5754069cf182.answer",
+"lastModified": "2018-09-08T05:33:23+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "If you're new to WooCommerce and want to test it out before launching an online store, you can create a demo store similar to the one linked above. It's a great way to kick the tires and test the different processes in your ecommerce setup.",
+"identifier": "cd628de6-4fd6-4c9d-b1a3-44786842365e"
+},
+{
+"id": "exmodule.howtouseit",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "how to use it",
+"identifier": "cd9649a5-5ea6-40e6-af51-fd2576e24001"
+},
+{
+"id": "profile.imprintlink",
+"lastModified": "2018-12-21T06:33:10+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "版本说明",
+"identifier": "cdda8a82-d82f-4d95-b605-6f13785c6c46"
+},
+{
+"id": "exmodule.howtouseit",
+"lastModified": "2018-12-21T06:32:44+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "如何开始呢？",
+"identifier": "ce1ad93e-c25d-42ae-a404-9b830614f9c9"
+},
+{
+"id": "info.finishedhabit",
+"lastModified": "2018-12-16T04:09:57+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "完成了一个习惯！",
+"identifier": "cf56748e-7dd9-46ed-90d4-7e8f7e057be6"
+},
+{
+"id": "exfilter.onlyshowcheckboxes",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "只显示我的",
+"identifier": "cf5e22c3-534d-46bc-ad87-b8f40b37ce01"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_99bc9c2c-8688-462b-b5c4-b4650f887812.name",
+"lastModified": "2018-10-23T02:14:22+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯＃7",
+"identifier": "cf63fb84-a4ab-4a88-a3a9-d22170e2ddcc"
+},
+{
+"id": "push.notification.newUnlockedExercises",
+"lastModified": "2019-01-11T09:28:07+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Since the last exercise you did was a bit too hard, we just unlocked a new exercise for you: {0}, {1}",
+"identifier": "cfff664e-fc93-4cdd-9d50-57a2ed130af5"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_249f814b-a504-45b6-af20-a58f476194c2.description",
+"lastModified": "2018-10-23T02:09:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "如果您是",
+"identifier": "d03cfef2-11bb-40d2-bacf-f90799a00c97"
+},
+{
+"id": "exsingle.finished",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Times Finished",
+"identifier": "d06371cd-69d2-4184-bd59-88f2c2fa4afb"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_9c80f000-d182-4bca-8f81-d30f41b8b942.name",
+"lastModified": "2019-01-10T06:00:19+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfe1CN",
+"identifier": "d067f3f9-9295-40d2-bd7e-c684f0459fac"
+},
+{
+"id": "tryforfreepw.password_field",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "密码",
+"identifier": "d07cfbe1-f23f-40dd-8c7d-f50352529964"
+},
+{
+"id": "habactive.description",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit challenge explanation lorem ipsum",
+"identifier": "d122b4e6-d972-4b42-b920-f101595168cb"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_b488126a-ef60-4f3f-b042-5754069cf182.title",
+"lastModified": "2018-09-08T05:33:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "並希望在啟動在線商店之前對其進行測試",
+"identifier": "d1553f6a-1da2-475b-9fe7-8847a8820611"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_c5575e9f-a22c-409e-98d4-3d8cfae950a8.description",
+"lastModified": "2018-10-23T02:07:36+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Eat a bit",
+"identifier": "d198ee89-d1bd-42c3-a051-7cfc8b7c15ad"
+},
+{
+"id": "info.photolibrary",
+"lastModified": "2018-11-22T06:10:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "图片库",
+"identifier": "d1a6a523-942b-4197-9b85-483bab3884c5"
+},
+{
+"id": "perf.habitpoints",
+"lastModified": "2018-11-04T14:12:31+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "habit points",
+"identifier": "d1c0bd77-18ab-4730-8ed2-aa5837297dd0"
+},
+{
+"id": "surprise.chosediff",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Chose the difficulty",
+"identifier": "d1f492a9-a64f-4d96-a027-42b39123fbd6"
+},
+{
+"id": "perf.performance_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Performance Progress",
+"identifier": "d212bdeb-f969-4c75-a992-c9fb1f7f2c75"
+},
+{
+"id": "profile.termslink",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Terms of Service",
+"identifier": "d217398d-cbbe-436a-a369-adad50a2ba4a"
+},
+{
+"id": "forgotpw.description_text",
+"lastModified": "2018-12-21T06:34:10+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "不用着急，您将收到一封电子邮件，点击其中的链接就可以重置密码啦（：",
+"identifier": "d23d011c-cfb2-467b-aff4-043d7d507948"
+},
+{
+"id": "regstep1b.description",
+"lastModified": "2018-12-21T06:15:28+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请选择剪裁区域",
+"identifier": "d27d9fb5-4667-43a2-9a9c-4e8af56b5059"
+},
+{
+"id": "headsup.title",
+"lastModified": "2018-12-21T06:08:15+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "今日打卡提醒",
+"identifier": "d2f9e5a7-ddbb-4e4f-9505-bccfe905d4bd"
+},
+{
+"id": "info.usernotexist",
+"lastModified": "2018-11-22T06:12:21+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "User does not exist",
+"identifier": "d342dde8-f726-4078-a44a-183036c3cbbe"
+},
+{
+"id": "dailylog.minutes",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "minutes",
+"identifier": "d371d16f-8df7-40d8-9a07-e26ed576a265"
+},
+{
+"id": "perf.daysun",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Sunday",
+"identifier": "d3d1cb69-0e28-4d4b-b7a8-7d9e0a770ad5"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_a74682aa-9f37-4e0f-9143-7b487d90362c.description",
+"lastModified": "2018-07-15T20:17:58+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "d4707f70-a4a5-4d18-9c74-8cd8a218abcf"
+},
+{
+"id": "headsup.description",
+"lastModified": "2018-12-18T03:57:24+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你已经完成今天的任务了吗？",
+"identifier": "d5492591-5afa-4b67-9e1f-84dbe26bb02a"
+},
+{
+"id": "global.password",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Password",
+"identifier": "d595139c-5d64-4da4-ac6e-373637f6fe3e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_249f814b-a504-45b6-af20-a58f476194c2.name",
+"lastModified": "2018-10-23T02:09:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit #3",
+"identifier": "d5ac7c8b-e656-4305-9fef-0299916edc5c"
+},
+{
+"id": "info.retry",
+"lastModified": "2018-12-08T06:38:30+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Retry",
+"identifier": "d5ce6484-5fd7-417a-88d0-85ba8c766862"
+},
+{
+"id": "purchase.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "购买历史记录",
+"identifier": "d5dd870d-8ef4-4e49-9c63-8ba749104dff"
+},
+{
+"id": "regfinal.title",
+"lastModified": "2018-12-19T11:10:23+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "账号建立成功！",
+"identifier": "d6028690-4af5-463a-9738-927845667880"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FaqCategory_575cee7a-f190-4fd8-b258-847bee8afe21.title",
+"lastModified": "2018-09-08T05:25:36+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 習慣",
+"identifier": "d607b63d-6196-4a08-8c7f-c61f1b446ee1"
+},
+{
+"id": "profile.imprintlink",
+"lastModified": "2018-12-21T06:33:10+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Imprint",
+"identifier": "d7430379-0f06-409c-88a1-dd74791789ee"
+},
+{
+"id": "faq.searchbar_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Type in your question",
+"identifier": "d775e5bd-8398-4831-a05d-3cafd6b4f45d"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_6ef030d9-2bf9-4e70-a630-53dfe18d3677.name",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "Punch routine in chinese",
+"identifier": "d8c81e34-fd49-47a0-9381-ca68cc2a1e80"
+},
+{
+"id": "ex.title",
+"lastModified": "2018-12-21T06:34:55+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "训练",
+"identifier": "d9b7cb7d-0ecc-4b65-ae0a-6d6402d0c10f"
+},
+{
+"id": "habactive.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "习惯",
+"identifier": "d9c27114-d65e-4673-a37e-417033e5506a"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fe0fc777-b247-49c4-8795-8082a7447a36.name",
+"lastModified": "2019-01-10T05:57:34+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfh1",
+"identifier": "d9f020b1-8958-4cd5-92ca-e295a38d37f7"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_abe1dadb-a407-48ad-8f00-62eb68458e49.description",
+"lastModified": "2019-01-10T05:55:53+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutf2m",
+"identifier": "da7969ea-8b93-4eec-bfea-711f28a7df05"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_1ad8de3b-fee1-4ae4-94b1-daabd93aae52.description",
+"lastModified": "2018-07-15T20:21:30+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise 4 module x Exercise 4 module x Exercise 4 module x Exercise 4 module x ",
+"identifier": "da8a5b0a-009c-40e0-8402-6cb27a31a71b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_622173b9-08c9-43a3-bc4d-4e6d95c6e06b.name",
+"lastModified": "2019-01-10T05:47:14+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻free1",
+"identifier": "dae320b1-f96c-47b0-8903-7f7e3ca11601"
+},
+{
+"id": "info.usernameexist",
+"lastModified": "2018-11-22T06:11:27+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "User name already exist",
+"identifier": "db051f31-59c6-4467-8cec-ea841cf04023"
+},
+{
+"id": "profile.settings_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Settings",
+"identifier": "db6bc702-a1cc-4b0a-9846-815705a0a663"
+},
+{
+"id": "onboard.button4",
+"lastModified": "2018-12-08T06:21:01+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Get started now!",
+"identifier": "dba3a124-0952-4fde-b58b-37d7e9763957"
+},
+{
+"id": "regstep3.description",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "XS Infinity will notify you via notifications to remind you to do your workout or to track your habits. It will help you to keep track of your goals and make sure you dont miss anything. You can adjust or turn of these notifications in your setting area.",
+"identifier": "dbbc461d-2feb-41f4-bbac-6f8ce6f26b06"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_64072af7-ade5-4d03-ba22-7ffd0beffadd.description",
+"lastModified": "2018-07-12T10:17:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "4分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "dbcd4005-fde7-4c08-a2ab-bbf3887fe41e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_ead57e53-f072-4b95-9c42-bc2bcf226908.title",
+"lastModified": "2018-09-08T05:31:50+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "How often do I need to do the habits?",
+"identifier": "dc6712f8-6c08-423f-a2a6-f03785dcb9a9"
+},
+{
+"id": "info.habitidtoohigh",
+"lastModified": "2018-11-22T06:19:47+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "The given habit as a too high order id for the actual period.",
+"identifier": "dd189af6-e44e-4f75-af6f-f3d11aab1593"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_46d7a931-8f6a-42be-b73a-8f2d6a50445d.excerpt",
+"lastModified": "2018-10-23T02:11:55+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "有时候不得不喜欢互联网。 我在80年代把收音机录下来。 我不知道它叫什么。 刚刚听了一些Khruangbin（“新的”音乐到50多岁），youtube决定我可能喜欢这个。 它花了35年才发现！ 到现在为止，我只能把它形容为“应该在现代启示录音乐中的一首歌”",
+"identifier": "dd2c95cd-aab7-485f-8899-6c46c72e8633"
+},
+{
+"id": "push.notification.habitCounterReset",
+"lastModified": "2018-11-16T09:10:09+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Since you didn't perform you daily habits, your counter has been reset and you need to start from day 1. Better luck next time!",
+"identifier": "dd615cfe-1a59-4a42-8a9e-8e87e3f59070"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fe0fc777-b247-49c4-8795-8082a7447a36.description",
+"lastModified": "2019-01-10T05:57:34+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfh1CN",
+"identifier": "dd77f914-791d-41de-83d4-218599d07479"
+},
+{
+"id": "ex.suprise_title",
+"lastModified": "2018-12-19T11:12:41+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "惊喜训练",
+"identifier": "ddadd51a-c046-482a-8261-84547ba0b8a0"
+},
+{
+"id": "perf.week",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "每周",
+"identifier": "de04d944-a734-4b19-8aa9-30ca24952c95"
+},
+{
+"id": "signin.signin_button",
+"lastModified": "2018-12-21T06:19:14+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "登录",
+"identifier": "de31634b-aab8-46f4-b3f9-701e983da021"
+},
+{
+"id": "headsup.hideswitch",
+"lastModified": "2018-12-21T06:36:42+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "今天内不再显示",
+"identifier": "de410b6a-8f4d-4e6e-9534-aaa7168e87be"
+},
+{
+"id": "info.error",
+"lastModified": "2018-12-17T11:20:41+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "出错啦",
+"identifier": "de522c43-e702-406f-99e1-7ca13b1b7973"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_7c72cb64-f0ea-4718-9cdc-2af2cc7a0921.name",
+"lastModified": "2018-07-15T20:18:55+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块2",
+"identifier": "df66c3e3-8ae5-4951-968d-90ebb0406943"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_a32ff6ef-3d0c-41ef-99b9-d06bdad3641b.name",
+"lastModified": "2018-10-21T09:00:16+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "whole body",
+"identifier": "e03734ac-aeaf-4f7b-aeaf-b613a4ca925b"
+},
+{
+"id": "user.bookmarked",
+"lastModified": "2018-12-17T10:51:37+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已收藏的训练",
+"identifier": "e069ae3a-5a2f-4c9c-8c76-8a7d239eba11"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_a32ff6ef-3d0c-41ef-99b9-d06bdad3641b.name",
+"lastModified": "2018-10-21T09:00:16+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "全身",
+"identifier": "e06f4f0a-f0a8-4577-ad38-1e5595cb7edb"
+},
+{
+"id": "global.ratetooeasy",
+"lastModified": "2018-12-21T06:29:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "太容易了吧！",
+"identifier": "e08538c5-9d4d-443c-9d7c-d5793c620bd8"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_72c4e3b9-7438-4c24-8509-a1fce5e4ff54.answer",
+"lastModified": "2018-09-08T05:34:44+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "If you're new to WooCommerce and want to test it out before launching an online store, you can create a demo store similar to the one linked above. It's a great way to kick the tires and test the different processes in your ecommerce setup.",
+"identifier": "e0f7678c-fd84-4ddf-bdfd-ff83e007ffea"
+},
+{
+"id": "ex.exercisesunlocked",
+"lastModified": "2019-01-12T07:47:27+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已解锁训练",
+"identifier": "e129d4b7-3ce9-44a2-b67c-49f1abdcf891"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_ca85b41b-41ea-41ab-9d97-26e89c5d5e73.description",
+"lastModified": "2018-07-12T10:13:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "Module 1 分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "e14a98da-f9b7-488d-a6d8-1ee3089433b4"
+},
+{
+"id": "extype.seconds",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "seconds",
+"identifier": "e1a87c85-c180-4f00-883b-41820e3515ce"
+},
+{
+"id": "headsup.msg3",
+"lastModified": "2018-12-21T05:56:06+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "恭喜你昨天完成了所有的习惯，获得{0}分！",
+"identifier": "e2249160-0336-4c57-8e23-2dfe263da7a7"
+},
+{
+"id": "info.deleteaccountdata",
+"lastModified": "2018-11-22T06:25:09+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "删除帐户和数据",
+"identifier": "e2333e41-2f61-4cbd-976b-e7aed642d124"
+},
+{
+"id": "profile.street",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Street",
+"identifier": "e2495712-0853-41e1-821e-b5551af0e019"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_a2f76cd3-08be-440b-aeaf-cd851f1553ea.name",
+"lastModified": "2019-01-10T05:56:34+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutf3m",
+"identifier": "e26e05de-55c8-4a3d-9338-3506bbd265d0"
+},
+{
+"id": "ex.dailyminimum",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "daily minimum",
+"identifier": "e36c473c-03c2-4d53-83bc-d274d40b8517"
+},
+{
+"id": "global.ratechallenging",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Challenge!",
+"identifier": "e36d10ca-576f-4684-81e2-192a3af7e0a5"
+},
+{
+"id": "info.selectrating",
+"lastModified": "2018-11-22T06:15:34+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Please select a rating",
+"identifier": "e49aff49-4778-4cf5-a25f-3cdfc545a177"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FocusArea_815b4a20-93d7-47f2-9f2b-ae2064e4dfc9.name",
+"lastModified": "2018-07-12T11:41:37+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "肚皮",
+"identifier": "e5570492-071e-4f6d-b9da-6e098c56ac55"
+},
+{
+"id": "regstep3.description",
+"lastModified": "2018-12-21T06:41:56+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "XS infinity将会通过“通知”来提（敲）醒（打）你完成今天的训练和习惯任务，强烈建议你开启这个功能，这样才能激励你不落下一天的任务，协助你培养习惯。当然，如果你自律性很强，可以调整并关闭通知功能。",
+"identifier": "e57b3372-1e6f-45c1-9c5b-29e20bce73ca"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_3454d53f-d941-4335-8026-c15b9c1f0a20.answer",
+"lastModified": "2018-09-08T05:34:07+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "If you're new to WooCommerce and want to test it out before launching an online store, you can create a demo store similar to the one linked above. It's a great way to kick the tires and test the different processes in your ecommerce setup.",
+"identifier": "e61c90be-fe88-46f9-9de1-1c19f41d7633"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_b488126a-ef60-4f3f-b042-5754069cf182.title",
+"lastModified": "2018-09-08T05:33:23+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "What is my mothers virgin name?",
+"identifier": "e61ffa55-9c5d-4a20-9bc9-badaa9887e8f"
+},
+{
+"id": "info.nohabitperiodexist",
+"lastModified": "2018-11-22T06:21:10+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "No habit period exist.",
+"identifier": "e688fc74-c105-4a6e-8925-287a4e971179"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_ead57e53-f072-4b95-9c42-bc2bcf226908.answer",
+"lastModified": "2018-09-08T05:31:50+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 如果您是WooCommerce的新手，並希望在啟動在線商店之前對其進行測試，您可以創建一個類似於上面鏈接的模擬商店。這是一個很好的方式來啟動輪胎並測試電子商務設置中的不同流程。",
+"identifier": "e80cd00c-971b-4e15-ba6e-1de302247cde"
+},
+{
+"id": "activation.resendemail",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Start XS Infinity",
+"identifier": "e81a2a84-c03a-4abd-bf98-fb3ede370c37"
+},
+{
+"id": "global.tryfreetitle",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Try for free",
+"identifier": "e8447601-2695-40ee-8c2f-3f52e728ad7a"
+},
+{
+"id": "ex.title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercises",
+"identifier": "e924267d-8de9-44cb-8854-a53290839ea5"
+},
+{
+"id": "regstep1a.title",
+"lastModified": "2018-12-21T06:00:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "完善您的个​​人信息",
+"identifier": "e942e929-2260-4633-99c5-7ea009a2321a"
+},
+{
+"id": "profile.remindhabits",
+"lastModified": "2018-12-17T10:48:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "请提醒我每天完成我的习惯任务。",
+"identifier": "e9eef857-7269-48ff-8fa4-8a260384ba34"
+},
+{
+"id": "habdis.continue",
+"lastModified": "2018-12-18T03:19:33+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "确定禁用",
+"identifier": "ea45910d-8966-4068-b5ff-656e2b4c0dc1"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_622173b9-08c9-43a3-bc4d-4e6d95c6e06b.name",
+"lastModified": "2019-01-10T05:47:14+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Free 1",
+"identifier": "ea81d018-6b64-40b2-907b-b244484f742e"
+},
+{
+"id": "regstep2.female",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "female",
+"identifier": "eaabe5a4-aea1-4021-a286-6f900cf6c0ce"
+},
+{
+"id": "perf.daythu",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Thursday",
+"identifier": "eabac312-6cdd-4aac-9b13-5ce43956989a"
+},
+{
+"id": "user.todaysperformance",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Today's performance",
+"identifier": "eb31dda8-b2b9-468b-b941-3c389595494b"
+},
+{
+"id": "perf.monthjul",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "July",
+"identifier": "eb385d3b-b707-4d5d-81e2-e23cf7206674"
+},
+{
+"id": "info.finishedallhabits",
+"lastModified": "2018-12-20T08:53:29+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "已完成了今天的所有习惯！",
+"identifier": "eb595ea8-b531-48d7-a202-17f3b90d3f98"
+},
+{
+"id": "user.progressgallery_title",
+"lastModified": "2018-12-21T06:00:01+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "我的体型变化图片库",
+"identifier": "ebb6369f-178c-4d53-8770-f730f9b903ec"
+},
+{
+"id": "onboard.text2",
+"lastModified": "2018-12-08T06:19:20+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Everyday finish minimum one workout, or set your own goal.",
+"identifier": "ed724cb6-cbf2-4d6b-b74b-10dfa3b6594c"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_4d6061e9-ff0a-414e-9605-49a7843bcd13.howToUseDescription",
+"lastModified": "2019-01-15T07:36:36+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "how to use description of \"module free\"",
+"identifier": "edbbc8f8-ee84-4978-8d2e-1d8bed61b721"
+},
+{
+"id": "perf.monthmay",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "May",
+"identifier": "ee091f35-249d-450f-abed-82f62bcd1a79"
+},
+{
+"id": "exfilter.title",
+"lastModified": "2018-12-18T03:40:01+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "过滤器",
+"identifier": "ee45ef45-b21d-449a-bd5e-4d58b2ee190e"
+},
+{
+"id": "exfilter.all",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "所有",
+"identifier": "ee62d633-146d-47ca-9ef7-7cfc594edb6a"
+},
+{
+"id": "profile.buttondelete",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Delete my account and all personal data",
+"identifier": "eed06db2-75ff-45e2-b081-f03399c502ca"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_c5575e9f-a22c-409e-98d4-3d8cfae950a8.description",
+"lastModified": "2018-10-23T02:07:36+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "吃一点",
+"identifier": "efcf2a51-86ca-45f6-911c-9d74a6a7946e"
+},
+{
+"id": "info.share",
+"lastModified": "2018-11-22T06:16:16+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Share",
+"identifier": "f01a4589-5095-4961-954b-387af9b88f16"
+},
+{
+"id": "profile.signoutlink",
+"lastModified": "2018-09-08T06:27:27+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Sign out",
+"identifier": "f0f62186-5dbd-4640-b19f-0cba2966ca68"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_cc2cfa98-037a-4943-987f-d299fa5f64c2.name",
+"lastModified": "2018-07-12T10:19:02+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻炼模块6",
+"identifier": "f16fd99e-cec2-4997-a877-b085ff99e030"
+},
+{
+"id": "onboard.text4",
+"lastModified": "2018-12-08T06:20:42+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "repeat! repeat! repeat! accummulate your habit and workout points, day by day.",
+"identifier": "f18d4f7b-7098-4115-960d-1b30a3e3f7a2"
+},
+{
+"id": "upload.public",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "public",
+"identifier": "f1bf29dd-fdec-48bf-9072-92664524c78c"
+},
+{
+"id": "global.exercise",
+"lastModified": "2018-12-18T03:43:34+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "训练",
+"identifier": "f1c65806-e11e-4924-9728-c28e1641c328"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_1925dbbd-e10f-450b-9adb-0b0248959b84.name",
+"lastModified": "2018-10-21T08:59:52+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "小腿",
+"identifier": "f1e06ddb-8c7f-46d9-a402-ffae41cacde4"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_4379d2c6-ae6e-480d-8d31-06297e292e5c.name",
+"lastModified": "2019-01-10T05:58:19+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfh3CN",
+"identifier": "f1e63f7a-e2fe-4d6c-91cb-4c182bc9e717"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_da26e1c8-26e0-4db9-9d50-8a0f714a4c8a.name",
+"lastModified": "2018-10-21T09:00:33+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "胸部",
+"identifier": "f253d951-df71-4524-bbc6-1c769d613ebf"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_72f89349-0044-405b-af2a-23404ac8352b.excerpt",
+"lastModified": "2018-10-23T01:52:55+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "有时候不得不喜欢互联网。 我在80年代把收音机录下来。 我不知道它叫什么。 刚刚听了一些Khruangbin（“新的”音乐到50多岁），youtube决定我可能喜欢这个。 它花了35年才发现！ 到现在为止，我只能把它形容为“应该在现代启示录音乐中的一首歌”",
+"identifier": "f29e7ec1-91fc-4e54-9bc4-073c2ca29afc"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_024bbe52-96b2-43db-9d2e-a64db3e067f2.answer",
+"lastModified": "2018-09-08T05:31:03+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 如果您是WooCommerce的新手，並希望在啟動在線商店之前對其進行測試，您可以創建一個類似於上面鏈接的模擬商店。這是一個很好的方式來啟動輪胎並測試電子商務設置中的不同流程。",
+"identifier": "f2d97336-bc6c-4734-8d71-c0ae5b832a3c"
+},
+{
+"id": "global.email",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "E-Mail",
+"identifier": "f37728b7-2704-4686-8800-48d49a8fc6f4"
+},
+{
+"id": "perf.weeknumber",
+"lastModified": "2018-11-04T13:57:15+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "周数：",
+"identifier": "f37d1e53-3a69-49bf-afa7-17b2ecd661ef"
+},
+{
+"id": "profile.address_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "地址",
+"identifier": "f41704b4-f909-4711-b1af-605457f67a72"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_c5575e9f-a22c-409e-98d4-3d8cfae950a8.excerpt",
+"lastModified": "2018-10-23T02:07:36+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Have to like the internet sometimes. I taped this off the radio back in the 80s. I had no idea what it was called. Was just now listening to some Khruangbin (\"new\" music to a 50-something) and youtube decided I might like this. Its taken 35 years to  find! Until now I could only describe it as \"A song that should have been on the Apocalypse Now soundtrack\"\ufeff",
+"identifier": "f450327a-fd8b-465c-bd1b-01ddec25f5c5"
+},
+{
+"id": "exlist.title",
+"lastModified": "2018-12-21T06:17:15+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "训练列表",
+"identifier": "f481e565-0e7e-49c8-8e60-bed8579ab930"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_6ef030d9-2bf9-4e70-a630-53dfe18d3677.description",
+"lastModified": "2018-04-01T00:00:00+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "Done this shit! in chinese",
+"identifier": "f535944e-ce5e-4f96-af01-b3ddc5e3150e"
+},
+{
+"id": "headsup.hideswitch",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Hide for today",
+"identifier": "f58238d6-9a08-43d8-8033-f186a0c65cc1"
+},
+{
+"id": "perf.activitylog_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Activity log",
+"identifier": "f58ed9f3-013a-4537-8c51-2d9c8c020d2b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e118922f-3506-4f44-befb-2438b6b8868f.name",
+"lastModified": "2019-01-10T05:49:46+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "锻free2",
+"identifier": "f5917ed5-5b35-4c84-804f-2ba8e18ebc6e"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_667c3183-63db-4b13-966c-aba3066cc7fe.name",
+"lastModified": "2019-01-10T05:59:51+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "workoutfe2CN",
+"identifier": "f5fe45cf-31a3-4972-805a-3924948ca2f9"
+},
+{
+"id": "exsingle.startbutton",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Start exercise",
+"identifier": "f61eb9ec-3970-4dc2-bf25-ea40f8563095"
+},
+{
+"id": "onboard.button4",
+"lastModified": "2018-12-08T06:21:01+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "现在就开始！",
+"identifier": "f6212f93-0c7c-49a2-97f3-dfedbad80961"
+},
+{
+"id": "forgotpw.description_text",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "You will be sent an email with a link to reset your password",
+"identifier": "f633c64e-20fd-480a-877f-24e805268444"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_024bbe52-96b2-43db-9d2e-a64db3e067f2.answer",
+"lastModified": "2018-09-08T05:31:03+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "If you're new to WooCommerce and want to test it out before launching an online store, you can create a demo store similar to the one linked above. It's a great way to kick the tires and test the different processes in your ecommerce setup.",
+"identifier": "f65e3e18-bf9d-4af4-a3ea-3e76c4508656"
+},
+{
+"id": "purch.purchmodule",
+"lastModified": "2018-10-23T02:34:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Purchase Module",
+"identifier": "f68fa0ba-4117-4f2d-b881-e1115cbf63ab"
+},
+{
+"id": "ex.continousdays",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Continous days",
+"identifier": "f6b7c3b9-3a00-4258-b51b-c530c3001dfe"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_112e75cd-bdd6-445e-af3b-096c202bc926.title",
+"lastModified": "2018-09-08T05:32:33+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Where can I download XS infinity APP?",
+"identifier": "f6c680b4-1316-4dad-a52b-9c5c237d3344"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_249f814b-a504-45b6-af20-a58f476194c2.name",
+"lastModified": "2018-07-13T16:11:41+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "Habit 4 Cn",
+"identifier": "f7121d47-f8f1-4f8e-9303-c7d2faa7c18b"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Tag_083c0193-9acc-4032-a0e4-d4a64f9de9c9.name",
+"lastModified": "2018-10-21T08:58:46+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "腿",
+"identifier": "f77170c8-c38e-4945-b0db-5f5949bddf64"
+},
+{
+"id": "excount.getready",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Get ready ...",
+"identifier": "f7ab4caa-d8d7-41fe-b374-524abbeef139"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_667c3183-63db-4b13-966c-aba3066cc7fe.name",
+"lastModified": "2019-01-10T05:59:51+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfe2",
+"identifier": "f7b82d47-9a3e-41a7-80a1-3059ce4035d5"
+},
+{
+"id": "upload.imgtitle",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Upload image",
+"identifier": "f81a4eeb-22fc-4b9d-917e-f63bfdddf4b9"
+},
+{
+"id": "ratesmiley.button",
+"lastModified": "2018-12-20T00:19:30+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "完成训练！",
+"identifier": "f84dda8b-95a2-451a-a2dc-41aa6257c2dd"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_e118922f-3506-4f44-befb-2438b6b8868f.howToUseDescription",
+"lastModified": "2019-01-10T05:49:46+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "把最后一组做完了",
+"identifier": "f84ebe28-a412-4a47-a094-8225e5e6ae84"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_72c4e3b9-7438-4c24-8509-a1fce5e4ff54.answer",
+"lastModified": "2018-09-08T05:34:44+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": " 如果您是WooCommerce的新手，並希望在啟動在線商店之前對其進行測試，您可以創建一個類似於上面鏈接的模擬商店。這是一個很好的方式來啟動輪胎並測試電子商務設置中的不同流程。",
+"identifier": "f89e83c1-3c72-4b2a-9569-10f2d0895ef2"
+},
+{
+"id": "user.minimumhabits",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "minimum habits",
+"identifier": "f8a26d16-3d60-4147-948d-df70ac9383ff"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_abe1dadb-a407-48ad-8f00-62eb68458e49.name",
+"lastModified": "2019-01-10T05:55:53+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutf2m",
+"identifier": "f8d9a4ec-d8d5-4e7a-b934-920876b46b26"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_043890b8-57c8-4ef2-a30e-36981b633e1a.description",
+"lastModified": "2018-07-15T20:23:18+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercise 6 module x Exercise 6 module x Exercise 6 module x Exercise 6 module x ",
+"identifier": "f8eb57dc-6cc5-40a5-81cc-297ff904288f"
+},
+{
+"id": "onboard.text3",
+"lastModified": "2018-12-08T06:20:00+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Everyday finish building diet habit",
+"identifier": "f9d56d85-3e7b-4fe5-9336-8b71b990c473"
+},
+{
+"id": "regstep2.zip",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "压缩",
+"identifier": "f9e46062-ad09-40c4-a66a-c940b5da2101"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Habit_46d7a931-8f6a-42be-b73a-8f2d6a50445d.name",
+"lastModified": "2018-10-23T02:11:55+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Habit #5",
+"identifier": "fa4070b9-1c2e-482c-9925-83ddeed253d9"
+},
+{
+"id": "info.emailexist",
+"lastModified": "2019-01-07T04:51:18+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "这个邮箱已经注册过了哦 （：",
+"identifier": "fad3a839-0398-4b22-a316-f97e2e94fc71"
+},
+{
+"id": "headsup.msg2",
+"lastModified": "2018-12-17T09:08:47+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "昨天你完成了{0}个训练！恭喜得到{1}分！",
+"identifier": "fb3a48c0-1509-45bf-adf0-73a944ab4d89"
+},
+{
+"id": "exfilter.nevertried",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Never tried",
+"identifier": "fb60fd00-c6a4-4c57-ab9b-364938df49c1"
+},
+{
+"id": "habdis.descr",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "If you disable your habits all progress is lost and you have to restart from habit 1 if you activate them again.",
+"identifier": "fb6c963e-5e47-4a0a-82d8-352d8f40a6d9"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\FaqCategory_e857b2dd-da26-4d6a-aa23-324beecc57c6.title",
+"lastModified": "2018-09-08T05:25:17+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Exercises",
+"identifier": "fcac39ba-0245-41d5-849c-e76da20aca92"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Faq_e9be9a7a-f692-474a-afd0-fb433f8d08f6.answer",
+"lastModified": "2018-09-08T05:29:12+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. ",
+"identifier": "fced3b0c-dd7c-42f7-b291-98b5ebe66116"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_d3e44442-74be-473c-9b5e-a94531454bd1.name",
+"lastModified": "2018-07-15T20:31:25+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "neuer Test3",
+"identifier": "fd2cfe43-05ec-4dfc-a723-b9e04ce1f9bc"
+},
+{
+"id": "global.difficultyeasy",
+"lastModified": "2018-12-21T05:52:35+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "新手",
+"identifier": "fd3adc8a-9979-4a54-a6e5-bb0e0d11ff45"
+},
+{
+"id": "excan.titel",
+"lastModified": "2018-12-17T11:19:59+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "你是在偷懒吗？",
+"identifier": "fd4b6654-04ab-4d41-bb98-86e596baeda5"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_e06d8952-7d93-4c17-a54b-276bd01c210a.description",
+"lastModified": "2018-07-15T20:22:37+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "分心了，把最后一组做完了，现在老老实实坐下来，踏踏实实写下下面的话（大腿肌肉还哆嗦着，这个深蹲。。爽",
+"identifier": "fd5fb34a-6fd8-4154-a5a2-67b2bb087d60"
+},
+{
+"id": "profile.account_title",
+"lastModified": "2018-06-11T05:18:05+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "帐户",
+"identifier": "fe1940f8-eda5-4580-ab8f-f872a8084efb"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Exercise_fac07e65-bacd-4354-9787-e5bc95727088.name",
+"lastModified": "2019-01-10T06:00:59+0000",
+"localeIdentifier": "en",
+"pluralForm": "other",
+"value": "workoutfh2",
+"identifier": "fe4d3e30-3420-4cea-8083-e5dfdb698ea9"
+},
+{
+"id": "Cf\\Inf\\Domain\\Model\\Module_4d6061e9-ff0a-414e-9605-49a7843bcd13.description",
+"lastModified": "2018-09-06T03:52:47+0000",
+"localeIdentifier": "cn",
+"pluralForm": "other",
+"value": "这是免费模块",
+"identifier": "ff2ab4df-b7c7-4434-a943-370938580db4"
+}
+]
